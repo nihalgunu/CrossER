@@ -1,0 +1,54 @@
+# Data generation (private)
+generate/
+
+# Frontend (hosted separately)
+frontend/
+
+# Raw context documents (internal)
+data/context/
+
+# Intermediate data files (not released)
+# Only crosser_dataset.json, crosser_pairs.json, crosser_entities.json, crosser_context.json are released
+data/_*.json
+data/entities.json
+data/pairs.json
+data/context.json
+data/rules.json
+data/decisions.json
+data/pairs_tier*.json
+data/crosser_knowledge.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Baseline results (regenerate locally)
+baselines/results/
+
+# Logs
+*.log

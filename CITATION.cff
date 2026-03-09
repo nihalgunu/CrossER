@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "CrossER: Cross-System Entity Resolution Benchmark"
+message: "If you use this benchmark, please cite it as below."
+type: dataset
+authors:
+  - given-names: Nihal
+    family-names: Gunukula
+    affiliation: Phyvant
+  - given-names: Sameer
+    family-names: Murthy
+    affiliation: Phyvant
+repository-code: https://github.com/nihalgunu/CrossER
+url: https://github.com/nihalgunu/CrossER
+abstract: >-
+  CrossER is a hard benchmark for cross-system entity resolution where LLMs fail
+  without institutional context. Unlike benchmarks with mixed difficulty, CrossER
+  includes only the hardest cases: match pairs have avg 0.29 string similarity
+  (look unrelated), no-match pairs have avg 0.94 similarity (look identical).
+  The benchmark includes 7,603 pairs (1,141 test) across 5 source systems, with
+  86,256 auxiliary context items (migration records, alias tables, code mappings)
+  for evaluating context-augmented ER systems.
+keywords:
+  - entity resolution
+  - data matching
+  - record linkage
+  - enterprise data
+  - master data management
+  - benchmark
+  - dataset
+  - LLM evaluation
+license: Apache-2.0
+license-url: https://www.apache.org/licenses/LICENSE-2.0
+date-released: 2026-03-08
+version: "1.1.0"
