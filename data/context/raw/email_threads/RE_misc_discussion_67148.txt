@@ -1,0 +1,43 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Fri, 11 Aug 2023 00:00:00 +0000
+
+Hi team,
+
+Quick reminder: timesheets are due by EOD.
+
+Best regards,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Fri, 11 Aug 2023 11:00:00 +0000
+
+Hey team,
+
+Off-topic: anyone want to grab coffee later?
+
+Cheers,
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Fri, 11 Aug 2023 04:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+Sarah Chen
+IT Systems
+

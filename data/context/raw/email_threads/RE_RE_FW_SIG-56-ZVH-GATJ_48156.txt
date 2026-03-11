@@ -1,0 +1,128 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Fri, 12 May 2023 11:00:00 +0000
+
+Hello,
+
+Heads up, the PRD-Pea Protei assignment was superseded. MR-1047 now points to Pea Protein 99.5%.
+
+Let me know if you have questions.
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Tue, 21 Mar 2023 00:00:00 +0000
+
+Hi everyone,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Regards,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Mon, 20 Mar 2023 17:00:00 +0000
+
+Hi team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+David Kim
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Mon, 20 Mar 2023 12:00:00 +0000
+
+Hi everyone,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks!
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Tue, 14 Mar 2023 12:00:00 +0000
+
+Hi all,
+
+MR-1047 maps to PRD-Pea Protei. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Tue, 14 Mar 2023 00:00:00 +0000
+
+Good morning,
+
+The staging database shows MR-1047 but the target assignment column is blank.
+
+Thanks!
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Mon, 13 Mar 2023 18:00:00 +0000
+
+Hi all,
+
+I think MR-1047 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: RE: SIG-56-ZVH-GATJ duplicate issue
+Date: Mon, 13 Mar 2023 00:00:00 +0000
+
+Hi all,
+
+Need to trace MR-1047 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+Lisa Rodriguez
+Quality Assurance
+

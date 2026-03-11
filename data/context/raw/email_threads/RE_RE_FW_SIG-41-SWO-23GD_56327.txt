@@ -1,0 +1,98 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 10 May 2023 00:00:00 +0000
+
+Hello,
+
+Note: disregard the earlier PRD-Resistant  mapping for MG-1010. Correct assignment is Resistant Starch.
+
+Let me know if you have questions.
+
+Regards,
+David Kim
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Sun, 23 Apr 2023 16:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks!
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 19 Apr 2023 16:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is MG-1010 = PRD-Resistant . This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 19 Apr 2023 10:00:00 +0000
+
+Good morning,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 19 Apr 2023 02:00:00 +0000
+
+Hi team,
+
+I think MG-1010 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 19 Apr 2023 00:00:00 +0000
+
+Hey team,
+
+Does anyone know the target assignment for staging code MG-1010?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Robert Brown
+Master Data
+

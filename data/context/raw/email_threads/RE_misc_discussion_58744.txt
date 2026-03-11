@@ -1,0 +1,43 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Wed, 05 Jul 2023 00:00:00 +0000
+
+Hi all,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Wed, 05 Jul 2023 19:00:00 +0000
+
+Hello,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Wed, 05 Jul 2023 10:00:00 +0000
+
+Hi team,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks in advance,
+Anna Mueller
+EU Operations
+

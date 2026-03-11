@@ -1,0 +1,45 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Internal code BC-1014 next hop
+Date: Fri, 08 Sep 2023 00:00:00 +0000
+
+Hi team,
+
+I'm tracing BC-1014 through the staging layers. What's the next code in the chain?
+
+Thanks,
+James Wilson
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Internal code BC-1014 next hop
+Date: Fri, 08 Sep 2023 02:00:00 +0000
+
+Hi,
+
+Let me check the consolidation log...
+
+According to the batch records, BC-1014 was consolidated into master group IC-1015.
+
+The final target assignment would be in the MDM registry under IC-1015.
+
+Best,
+Lisa Rodriguez
+Master Data
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Internal code BC-1014 next hop
+Date: Fri, 08 Sep 2023 07:00:00 +0000
+
+Good morning,
+
+Confirmed: BC-1014 -> IC-1015 in the consolidation layer.
+
+Thanks,
+Anna Mueller
+

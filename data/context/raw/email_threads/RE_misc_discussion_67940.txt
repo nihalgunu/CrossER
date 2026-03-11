@@ -1,0 +1,43 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Mon, 02 Oct 2023 00:00:00 +0000
+
+Hi everyone,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Cheers,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Mon, 02 Oct 2023 15:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Mon, 02 Oct 2023 06:00:00 +0000
+
+Hi team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best,
+Jennifer Lee
+Compliance
+

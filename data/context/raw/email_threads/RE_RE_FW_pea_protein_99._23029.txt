@@ -1,0 +1,98 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Fri, 23 Jun 2023 03:00:00 +0000
+
+Hi all,
+
+Note: disregard the earlier Pea Protein 99.5% Grade A mapping for MR-1053. Correct assignment is Pea Protein 99.5%.
+
+Let me know if you have questions.
+
+Thanks,
+David Kim
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Thu, 27 Apr 2023 04:00:00 +0000
+
+Hi all,
+
+Off-topic: anyone want to grab coffee later?
+
+Best,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Mon, 24 Apr 2023 04:00:00 +0000
+
+Hi all,
+
+MR-1053 maps to Pea Protein 99.5% Grade A. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Mon, 24 Apr 2023 02:00:00 +0000
+
+Hi all,
+
+MR-1053 looks familiar. I remember discussing this in the last sync.
+
+Thanks!
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Sun, 23 Apr 2023 18:00:00 +0000
+
+Hello,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Cheers,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Need help with ERP_DELTA entity mapping
+Date: Sun, 23 Apr 2023 00:00:00 +0000
+
+Hi everyone,
+
+Need to trace MR-1053 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+Michael Weber
+Business Operations
+

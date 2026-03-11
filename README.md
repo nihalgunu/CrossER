@@ -17,7 +17,7 @@ LLMs fail on this benchmark without institutional context. String matching gets 
 | Test Pairs | 1,141 |
 | Total Entities | 7,162 |
 | Source Systems | 5 |
-| Raw Documents | 97 |
+| Raw Documents | 237 |
 
 ## Why CrossER is Hard
 
@@ -34,6 +34,7 @@ LLMs fail on this benchmark without institutional context. String matching gets 
 
 | Method | Context | F1 | Precision | Recall |
 |--------|---------|-----|-----------|--------|
+| Claude Sonnet 4 + Phyvant | Phyvant | 0.500 | 0.429 | 0.600 |
 | Attribute Matching | None | 0.145 | 0.080 | 0.783 |
 | Claude Sonnet 4 + BM25 RAG | Raw | 0.091 | 0.077 | 0.111 |
 | Claude Sonnet 4 (zero-shot) | None | 0.090 | 0.143 | 0.065 |

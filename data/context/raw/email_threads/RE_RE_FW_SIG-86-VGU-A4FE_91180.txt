@@ -1,0 +1,70 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Sun, 30 Jul 2023 13:00:00 +0000
+
+Hi team,
+
+Following up on this. After checking with the legacy system admin, I can confirm that SIG-86-VGU-A4FE in LEGACY_SIGMA maps to Coconut Oil Food Grade in ERP_ALPHA.
+The LEGACY_SIGMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Sat, 29 Jul 2023 09:00:00 +0000
+
+Hi everyone,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Cheers,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Thu, 27 Jul 2023 13:00:00 +0000
+
+Quick question -
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Best,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Thu, 27 Jul 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for SIG-86-VGU-A4FE from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Jennifer from the integration team?
+
+Regards,
+Jennifer Lee
+Compliance
+

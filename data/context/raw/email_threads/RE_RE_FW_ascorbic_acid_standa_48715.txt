@@ -1,0 +1,54 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - ascorbic acid s codes
+Date: Thu, 19 Oct 2023 01:00:00 +0000
+
+Hi team,
+
+Following up on this. I double-checked and ascorbic acid standard should be treated as equivalent to Ascorbic Acid Grade B.
+The ERP_DELTA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - ascorbic acid s codes
+Date: Wed, 18 Oct 2023 23:00:00 +0000
+
+Hey team,
+
+The ERP_DELTA documentation mentions ascorbic acid standard but the naming convention changed after the system update last year.
+
+Regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Quick question - ascorbic acid s codes
+Date: Wed, 18 Oct 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for ascorbic acid standard from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Jennifer from the integration team?
+
+Regards,
+Jennifer Lee
+Compliance
+

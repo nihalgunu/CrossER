@@ -1,0 +1,117 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Wed, 14 Jun 2023 03:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by our records: SIG-26-DML-NZS4 in LEGACY_SIGMA maps to Dextrose Food Grade in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Mon, 12 Jun 2023 03:00:00 +0000
+
+Hi everyone,
+
+The LEGACY_SIGMA documentation mentions SIG-26-DML-NZS4 but the naming convention changed after the system update last year.
+
+Thanks,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Sun, 11 Jun 2023 01:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Sat, 10 Jun 2023 13:00:00 +0000
+
+Hey team,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Fri, 09 Jun 2023 19:00:00 +0000
+
+Good morning,
+
+I think SIG-26-DML-NZS4 might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Thu, 08 Jun 2023 09:00:00 +0000
+
+Hi team,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - SIG-26-DML-NZS4 discrepancy
+Date: Thu, 08 Jun 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for SIG-26-DML-NZS4 from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+While I have you, do you know who handles the vendor payments for LEGACY_SIGMA?
+
+Regards,
+Robert Brown
+Master Data
+

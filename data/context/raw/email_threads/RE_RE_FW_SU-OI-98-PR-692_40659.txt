@@ -1,0 +1,101 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SU-OI-98-PR-692 migration
+Date: Sat, 26 Aug 2023 18:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: SU-OI-98-PR-692 (ERP_GAMMA) = Sunflower Oil 98% Premium (ERP_ALPHA).
+The ERP_GAMMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SU-OI-98-PR-692 migration
+Date: Fri, 25 Aug 2023 21:00:00 +0000
+
+Hello,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SU-OI-98-PR-692 migration
+Date: Wed, 23 Aug 2023 22:00:00 +0000
+
+Hey team,
+
+The ERP_GAMMA documentation mentions SU-OI-98-PR-692 but the naming convention changed after the system update last year.
+
+Best,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SU-OI-98-PR-692 migration
+Date: Wed, 23 Aug 2023 10:00:00 +0000
+
+Hi everyone,
+
+I think SU-OI-98-PR-692 might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_GAMMA team.
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SU-OI-98-PR-692 migration
+Date: Tue, 22 Aug 2023 12:00:00 +0000
+
+Hey team,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Clarification on SU-OI-98-PR-692 migration
+Date: Tue, 22 Aug 2023 00:00:00 +0000
+
+Hey team,
+
+I'm trying to find the correct mapping for SU-OI-98-PR-692 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in John from the integration team?
+
+Best regards,
+Michael Weber
+Business Operations
+

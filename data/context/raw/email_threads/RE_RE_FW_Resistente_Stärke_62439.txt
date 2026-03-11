@@ -1,0 +1,52 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about Resistente Stär mapping
+Date: Sat, 21 Oct 2023 20:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that Resistente Stärke should be treated as equivalent to Resistant Starch.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about Resistente Stär mapping
+Date: Fri, 20 Oct 2023 09:00:00 +0000
+
+Good morning,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Question about Resistente Stär mapping
+Date: Fri, 20 Oct 2023 00:00:00 +0000
+
+Quick question -
+
+I'm trying to find the correct mapping for Resistente Stärke from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Regards,
+Anna Mueller
+EU Operations
+

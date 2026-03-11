@@ -1,0 +1,43 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 28 Sep 2023 00:00:00 +0000
+
+Hi everyone,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Cheers,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 28 Sep 2023 09:00:00 +0000
+
+Hello,
+
+Quick reminder: timesheets are due by EOD.
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 28 Sep 2023 16:00:00 +0000
+
+Hello,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks,
+Anna Mueller
+EU Operations
+

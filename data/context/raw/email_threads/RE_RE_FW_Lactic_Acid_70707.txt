@@ -1,0 +1,101 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Sun, 15 Oct 2023 14:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by our records: Lactic Acid should be treated as equivalent to Lactic Acid.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Sun, 15 Oct 2023 01:00:00 +0000
+
+Hey team,
+
+The ERP_BETA documentation mentions Lactic Acid but the naming convention changed after the system update last year.
+
+Best,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Fri, 13 Oct 2023 14:00:00 +0000
+
+Hey team,
+
+I think Lactic Acid might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_BETA team.
+
+Thanks!
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Wed, 11 Oct 2023 19:00:00 +0000
+
+Good morning,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Cheers,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Tue, 10 Oct 2023 11:00:00 +0000
+
+Quick question -
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Tue, 10 Oct 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for Lactic Acid from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Regards,
+Jennifer Lee
+Compliance
+

@@ -1,0 +1,116 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Sonnenblumenöl  codes
+Date: Wed, 23 Aug 2023 10:00:00 +0000
+
+Hi team,
+
+Following up on this. After checking with the data steward, I can confirm that the legacy code Sonnenblumenöl 98% Premiumqualität corresponds to Sunflower Oil 98% Premium in the new system.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Cheers,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Sonnenblumenöl  codes
+Date: Tue, 22 Aug 2023 10:00:00 +0000
+
+Hey team,
+
+Off-topic: anyone want to grab coffee later?
+
+Best regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Sonnenblumenöl  codes
+Date: Sun, 20 Aug 2023 21:00:00 +0000
+
+Hello,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Sonnenblumenöl  codes
+Date: Sun, 20 Aug 2023 07:00:00 +0000
+
+Good morning,
+
+The ERP_BETA documentation mentions Sonnenblumenöl 98% Premiumqualität but the naming convention changed after the system update last year.
+
+Regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Sonnenblumenöl  codes
+Date: Sat, 19 Aug 2023 09:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks in advance,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Sonnenblumenöl  codes
+Date: Sat, 19 Aug 2023 01:00:00 +0000
+
+Good morning,
+
+The ERP_BETA documentation mentions Sonnenblumenöl 98% Premiumqualität but the naming convention changed after the system update last year.
+
+Thanks in advance,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Quick question - Sonnenblumenöl  codes
+Date: Sat, 19 Aug 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for Sonnenblumenöl 98% Premiumqualität from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Also, is there a wiki page documenting the ERP_BETA data model?
+
+Best,
+Michael Weber
+Business Operations
+

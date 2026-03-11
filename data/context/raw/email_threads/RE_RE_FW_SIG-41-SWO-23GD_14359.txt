@@ -1,0 +1,84 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SIG-41-SWO-23GD migration
+Date: Tue, 29 Aug 2023 18:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: SIG-41-SWO-23GD should be treated as equivalent to Resistant Starch.
+The LEGACY_SIGMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SIG-41-SWO-23GD migration
+Date: Mon, 28 Aug 2023 14:00:00 +0000
+
+Quick question -
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Cheers,
+David Kim
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SIG-41-SWO-23GD migration
+Date: Sun, 27 Aug 2023 03:00:00 +0000
+
+Quick question -
+
+Quick reminder: timesheets are due by EOD.
+
+Regards,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SIG-41-SWO-23GD migration
+Date: Sun, 27 Aug 2023 02:00:00 +0000
+
+Good morning,
+
+I think SIG-41-SWO-23GD might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Thanks,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Clarification on SIG-41-SWO-23GD migration
+Date: Sun, 27 Aug 2023 00:00:00 +0000
+
+Hey team,
+
+I'm trying to find the correct mapping for SIG-41-SWO-23GD from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Is this related to the issue we discussed last week?
+
+Cheers,
+Sarah Chen
+IT Systems
+

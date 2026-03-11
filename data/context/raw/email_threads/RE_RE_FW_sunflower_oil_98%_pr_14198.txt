@@ -1,0 +1,100 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: sunflower oil 9 code clarification needed
+Date: Tue, 21 Nov 2023 18:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by our records: the legacy code sunflower oil 98% premium corresponds to Sunflower Oil 98% Premium in the new system.
+This mapping was verified during the DELTA_CONSOLIDATION_2023 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: sunflower oil 9 code clarification needed
+Date: Mon, 20 Nov 2023 14:00:00 +0000
+
+Hi all,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Cheers,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: RE: sunflower oil 9 code clarification needed
+Date: Sat, 18 Nov 2023 23:00:00 +0000
+
+Good morning,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: sunflower oil 9 code clarification needed
+Date: Sat, 18 Nov 2023 07:00:00 +0000
+
+Hi all,
+
+The ERP_DELTA documentation mentions sunflower oil 98% premium but the naming convention changed after the system update last year.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: sunflower oil 9 code clarification needed
+Date: Thu, 16 Nov 2023 07:00:00 +0000
+
+Quick question -
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks in advance,
+David Kim
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: sunflower oil 9 code clarification needed
+Date: Thu, 16 Nov 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for sunflower oil 98% premium from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Do we have a meeting scheduled to discuss this further?
+
+Regards,
+Maria Garcia
+Procurement
+

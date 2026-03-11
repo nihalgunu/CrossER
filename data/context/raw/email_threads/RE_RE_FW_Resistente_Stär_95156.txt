@@ -1,0 +1,128 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Wed, 07 Jun 2023 07:00:00 +0000
+
+Hi everyone,
+
+Note: disregard the earlier PRD-Resistant  mapping for BC-1013. Correct assignment is Resistant Starch.
+
+Let me know if you have questions.
+
+Best,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Sun, 09 Apr 2023 17:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Sun, 09 Apr 2023 04:00:00 +0000
+
+Hello,
+
+Off-topic: anyone want to grab coffee later?
+
+Regards,
+John Smith
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Sat, 08 Apr 2023 15:00:00 +0000
+
+Hi team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Regards,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Thu, 06 Apr 2023 15:00:00 +0000
+
+Hi all,
+
+I can confirm that BC-1013 corresponds to PRD-Resistant . This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Thu, 06 Apr 2023 08:00:00 +0000
+
+Hello,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Best regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: Resistente Stär code clarification needed
+Date: Wed, 05 Apr 2023 22:00:00 +0000
+
+Hi everyone,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Best,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Resistente Stär code clarification needed
+Date: Wed, 05 Apr 2023 00:00:00 +0000
+
+Good morning,
+
+Need to trace BC-1013 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks,
+Sarah Chen
+IT Systems
+

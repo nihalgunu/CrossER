@@ -1,0 +1,45 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Internal code IC-1021 next hop
+Date: Sun, 11 Jun 2023 00:00:00 +0000
+
+Hi team,
+
+I'm tracing IC-1021 through the staging layers. What's the next code in the chain?
+
+Thanks,
+Robert Brown
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Internal code IC-1021 next hop
+Date: Sun, 11 Jun 2023 06:00:00 +0000
+
+Hi,
+
+Let me check the consolidation log...
+
+According to the batch records, IC-1021 was consolidated into master group XR-1022.
+
+The final target assignment would be in the MDM registry under XR-1022.
+
+Best,
+Michael Weber
+Master Data
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Internal code IC-1021 next hop
+Date: Sun, 11 Jun 2023 10:00:00 +0000
+
+Hi team,
+
+Confirmed: IC-1021 -> XR-1022 in the consolidation layer.
+
+Regards,
+Sarah Chen
+

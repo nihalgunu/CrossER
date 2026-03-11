@@ -1,0 +1,43 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sat, 09 Sep 2023 00:00:00 +0000
+
+Good morning,
+
+BTW, I'll be OOO next week.
+
+Thanks in advance,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sat, 09 Sep 2023 02:00:00 +0000
+
+Hi all,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sat, 09 Sep 2023 10:00:00 +0000
+
+Hi team,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best regards,
+Robert Brown
+Master Data
+

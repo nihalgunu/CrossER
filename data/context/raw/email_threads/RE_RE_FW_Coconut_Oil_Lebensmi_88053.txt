@@ -1,0 +1,70 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Coconut Oil Leb codes
+Date: Sun, 27 Aug 2023 13:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the legacy system admin: Coconut Oil Lebensmittelrein in ERP_BETA maps to Coconut Oil Food Grade in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Coconut Oil Leb codes
+Date: Sun, 27 Aug 2023 01:00:00 +0000
+
+Hi team,
+
+The ERP_BETA documentation mentions Coconut Oil Lebensmittelrein but the naming convention changed after the system update last year.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - Coconut Oil Leb codes
+Date: Fri, 25 Aug 2023 09:00:00 +0000
+
+Hi team,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Cheers,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Quick question - Coconut Oil Leb codes
+Date: Fri, 25 Aug 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for Coconut Oil Lebensmittelrein from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+

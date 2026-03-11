@@ -1,0 +1,113 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Thu, 08 Jun 2023 21:00:00 +0000
+
+Hello,
+
+Actually, small update on MG-1024 - the previous mapping was outdated. Current target is Ascorbic Acid.
+
+Let me know if you have questions.
+
+Best regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Mon, 01 May 2023 19:00:00 +0000
+
+Hello,
+
+Quick reminder: timesheets are due by EOD.
+
+Cheers,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Sun, 30 Apr 2023 22:00:00 +0000
+
+Hi everyone,
+
+BTW, I'll be OOO next week.
+
+Thanks,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Thu, 27 Apr 2023 22:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is MG-1024 = Ascorbic Acid Premium. This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Thu, 27 Apr 2023 16:00:00 +0000
+
+Hi everyone,
+
+I think MG-1024 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Cheers,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Thu, 27 Apr 2023 08:00:00 +0000
+
+Hi team,
+
+MG-1024 looks familiar. I remember discussing this in the last sync.
+
+Cheers,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - SIG-29-CYR-T4UF discrepancy
+Date: Thu, 27 Apr 2023 00:00:00 +0000
+
+Hi all,
+
+Need to trace MG-1024 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+David Kim
+Supply Chain
+

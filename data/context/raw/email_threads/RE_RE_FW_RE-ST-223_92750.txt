@@ -1,0 +1,114 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sat, 14 Oct 2023 09:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the legacy system admin: RE-ST-223 (ERP_GAMMA) = Resistant Starch (ERP_ALPHA).
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Fri, 13 Oct 2023 17:00:00 +0000
+
+Hello,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Thu, 12 Oct 2023 05:00:00 +0000
+
+Hi all,
+
+I think RE-ST-223 might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_GAMMA team.
+
+Regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Tue, 10 Oct 2023 21:00:00 +0000
+
+Hey team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Tue, 10 Oct 2023 07:00:00 +0000
+
+Hi everyone,
+
+The ERP_GAMMA documentation mentions RE-ST-223 but the naming convention changed after the system update last year.
+
+Thanks!
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sun, 08 Oct 2023 22:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Need help with ERP_GAMMA entity mapping
+Date: Sun, 08 Oct 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for RE-ST-223 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Best,
+Anna Mueller
+EU Operations
+

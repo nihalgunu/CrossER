@@ -1,0 +1,69 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-37-NAI-M1G9 codes
+Date: Sun, 10 Sep 2023 13:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: SIG-37-NAI-M1G9 (LEGACY_SIGMA) = Sodium Benzoate 25% Standard (ERP_ALPHA).
+This mapping was verified during the SIGMA_DECOMMISSION_2023 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-37-NAI-M1G9 codes
+Date: Sat, 09 Sep 2023 22:00:00 +0000
+
+Good morning,
+
+The LEGACY_SIGMA documentation mentions SIG-37-NAI-M1G9 but the naming convention changed after the system update last year.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-37-NAI-M1G9 codes
+Date: Sat, 09 Sep 2023 18:00:00 +0000
+
+Good morning,
+
+Quick reminder: timesheets are due by EOD.
+
+Best regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Quick question - SIG-37-NAI-M1G9 codes
+Date: Sat, 09 Sep 2023 00:00:00 +0000
+
+Quick question -
+
+I'm trying to find the correct mapping for SIG-37-NAI-M1G9 from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Do we have a meeting scheduled to discuss this further?
+
+Thanks,
+Maria Garcia
+Procurement
+

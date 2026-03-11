@@ -1,0 +1,100 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Question about coconut oil foo mapping
+Date: Tue, 06 Jun 2023 19:00:00 +0000
+
+Hi team,
+
+Following up on this. After checking with the migration team, I can confirm that coconut oil food grade should be treated as equivalent to Coconut Oil Food Grade.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Question about coconut oil foo mapping
+Date: Tue, 06 Jun 2023 04:00:00 +0000
+
+Hi all,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Question about coconut oil foo mapping
+Date: Mon, 05 Jun 2023 18:00:00 +0000
+
+Quick question -
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Question about coconut oil foo mapping
+Date: Mon, 05 Jun 2023 07:00:00 +0000
+
+Hey team,
+
+The ERP_DELTA documentation mentions coconut oil food grade but the naming convention changed after the system update last year.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Question about coconut oil foo mapping
+Date: Sun, 04 Jun 2023 04:00:00 +0000
+
+Hi everyone,
+
+The ERP_DELTA documentation mentions coconut oil food grade but the naming convention changed after the system update last year.
+
+Thanks!
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Question about coconut oil foo mapping
+Date: Sun, 04 Jun 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for coconut oil food grade from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Maria from the integration team?
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+

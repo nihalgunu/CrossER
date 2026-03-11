@@ -1,0 +1,43 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Sat, 19 Aug 2023 00:00:00 +0000
+
+Hi everyone,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best regards,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Sat, 19 Aug 2023 11:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Sun, 20 Aug 2023 22:00:00 +0000
+
+Hello,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best,
+Maria Garcia
+Procurement
+

@@ -1,0 +1,43 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Thu, 03 Aug 2023 00:00:00 +0000
+
+Hey team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Thu, 03 Aug 2023 23:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Fri, 04 Aug 2023 22:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Best regards,
+Maria Garcia
+Procurement
+

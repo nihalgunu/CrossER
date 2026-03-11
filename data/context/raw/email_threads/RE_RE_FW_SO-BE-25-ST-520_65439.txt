@@ -1,0 +1,117 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Tue, 20 Jun 2023 16:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by our records: SO-BE-25-ST-520 (ERP_GAMMA) = Sodium Benzoate 25% Standard (ERP_ALPHA).
+The ERP_GAMMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Mon, 19 Jun 2023 00:00:00 +0000
+
+Hi all,
+
+I think SO-BE-25-ST-520 might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_GAMMA team.
+
+Regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sat, 17 Jun 2023 20:00:00 +0000
+
+Hey team,
+
+The ERP_GAMMA documentation mentions SO-BE-25-ST-520 but the naming convention changed after the system update last year.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Fri, 16 Jun 2023 03:00:00 +0000
+
+Hey team,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Wed, 14 Jun 2023 16:00:00 +0000
+
+Hi team,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks in advance,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Tue, 13 Jun 2023 23:00:00 +0000
+
+Hello,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Thanks,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Need help with ERP_GAMMA entity mapping
+Date: Tue, 13 Jun 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for SO-BE-25-ST-520 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Is this related to the issue we discussed last week?
+
+Thanks!
+Lisa Rodriguez
+Quality Assurance
+

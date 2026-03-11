@@ -1,0 +1,53 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA to ERP_ALPHA mapping
+Date: Wed, 27 Sep 2023 16:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: palm oil 98% should be treated as equivalent to Palm Oil 98%.
+The confusion arose because there were two similar codes in ERP_DELTA. This is the correct one based on the product specifications.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks in advance,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA to ERP_ALPHA mapping
+Date: Tue, 26 Sep 2023 08:00:00 +0000
+
+Quick question -
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks in advance,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_DELTA to ERP_ALPHA mapping
+Date: Tue, 26 Sep 2023 00:00:00 +0000
+
+Quick question -
+
+I'm trying to find the correct mapping for palm oil 98% from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Do we have a meeting scheduled to discuss this further?
+
+Best regards,
+Jennifer Lee
+Compliance
+

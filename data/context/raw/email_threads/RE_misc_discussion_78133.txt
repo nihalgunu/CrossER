@@ -1,0 +1,43 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Wed, 23 Aug 2023 00:00:00 +0000
+
+Hey team,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Sarah Chen
+IT Systems
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Wed, 23 Aug 2023 14:00:00 +0000
+
+Quick question -
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks!
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Thu, 24 Aug 2023 12:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Thanks!
+James Wilson
+Finance
+

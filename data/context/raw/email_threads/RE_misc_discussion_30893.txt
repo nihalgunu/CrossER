@@ -1,0 +1,43 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Migration timeline update
+Date: Mon, 20 Nov 2023 00:00:00 +0000
+
+Hi everyone,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Migration timeline update
+Date: Mon, 20 Nov 2023 04:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Migration timeline update
+Date: Mon, 20 Nov 2023 06:00:00 +0000
+
+Hi team,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+David Kim
+Supply Chain
+

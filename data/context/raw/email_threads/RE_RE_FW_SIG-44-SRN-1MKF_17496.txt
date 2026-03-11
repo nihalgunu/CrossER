@@ -1,0 +1,85 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-44-SRN-1MKF codes
+Date: Mon, 21 Aug 2023 20:00:00 +0000
+
+Hi team,
+
+Following up on this. After checking with our records, I can confirm that the legacy code SIG-44-SRN-1MKF corresponds to Fructose Grade A in the new system.
+This mapping was verified during the SIGMA_DECOMMISSION_2023 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-44-SRN-1MKF codes
+Date: Sat, 19 Aug 2023 22:00:00 +0000
+
+Good morning,
+
+The LEGACY_SIGMA documentation mentions SIG-44-SRN-1MKF but the naming convention changed after the system update last year.
+
+Best,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-44-SRN-1MKF codes
+Date: Sat, 19 Aug 2023 04:00:00 +0000
+
+Hi everyone,
+
+I think SIG-44-SRN-1MKF might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Best,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - SIG-44-SRN-1MKF codes
+Date: Thu, 17 Aug 2023 04:00:00 +0000
+
+Hi team,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks in advance,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Quick question - SIG-44-SRN-1MKF codes
+Date: Thu, 17 Aug 2023 00:00:00 +0000
+
+Hey team,
+
+I'm trying to find the correct mapping for SIG-44-SRN-1MKF from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+While I have you, do you know who handles the vendor payments for LEGACY_SIGMA?
+
+Thanks,
+James Wilson
+Finance
+

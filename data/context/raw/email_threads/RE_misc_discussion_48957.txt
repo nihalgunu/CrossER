@@ -1,0 +1,43 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 19 Oct 2023 00:00:00 +0000
+
+Hello,
+
+Off-topic: anyone want to grab coffee later?
+
+Best regards,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 19 Oct 2023 20:00:00 +0000
+
+Quick question -
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 19 Oct 2023 20:00:00 +0000
+
+Quick question -
+
+Side note: great job on the Q3 presentation yesterday!
+
+Cheers,
+David Kim
+Supply Chain
+

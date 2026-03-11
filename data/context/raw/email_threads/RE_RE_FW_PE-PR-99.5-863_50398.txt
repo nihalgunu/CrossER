@@ -1,0 +1,53 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: PE-PR-99.5-863 duplicate issue
+Date: Wed, 09 Aug 2023 08:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: the legacy code PE-PR-99.5-863 corresponds to Pea Protein 99.5% in the new system.
+The confusion arose because there were two similar codes in ERP_GAMMA. This is the correct one based on the product specifications.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: PE-PR-99.5-863 duplicate issue
+Date: Tue, 08 Aug 2023 21:00:00 +0000
+
+Hi all,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: PE-PR-99.5-863 duplicate issue
+Date: Tue, 08 Aug 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for PE-PR-99.5-863 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Do we have a meeting scheduled to discuss this further?
+
+Best,
+Sarah Chen
+IT Systems
+

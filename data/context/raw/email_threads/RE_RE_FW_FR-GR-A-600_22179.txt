@@ -1,0 +1,52 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - FR-GR-A-600 discrepancy
+Date: Wed, 11 Oct 2023 03:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that FR-GR-A-600 should be treated as equivalent to Fructose Grade A.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - FR-GR-A-600 discrepancy
+Date: Wed, 11 Oct 2023 01:00:00 +0000
+
+Hello,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks in advance,
+John Smith
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - FR-GR-A-600 discrepancy
+Date: Wed, 11 Oct 2023 00:00:00 +0000
+
+Quick question -
+
+I'm trying to find the correct mapping for FR-GR-A-600 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Is this related to the issue we discussed last week?
+
+Thanks,
+James Wilson
+Finance
+

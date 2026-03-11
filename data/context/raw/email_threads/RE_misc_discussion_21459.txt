@@ -1,0 +1,43 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 11 Sep 2023 00:00:00 +0000
+
+Hey team,
+
+Quick reminder: timesheets are due by EOD.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 11 Sep 2023 09:00:00 +0000
+
+Hi all,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks!
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 11 Sep 2023 16:00:00 +0000
+
+Hi all,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Thanks,
+Robert Brown
+Master Data
+

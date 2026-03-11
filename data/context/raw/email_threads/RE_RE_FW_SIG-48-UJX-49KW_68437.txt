@@ -1,0 +1,54 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: SIG-48-UJX-49KW code clarification needed
+Date: Thu, 24 Aug 2023 16:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that SIG-48-UJX-49KW in LEGACY_SIGMA maps to Ascorbic Acid Grade B in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: SIG-48-UJX-49KW code clarification needed
+Date: Tue, 22 Aug 2023 22:00:00 +0000
+
+Hey team,
+
+The LEGACY_SIGMA documentation mentions SIG-48-UJX-49KW but the naming convention changed after the system update last year.
+
+Thanks!
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: SIG-48-UJX-49KW code clarification needed
+Date: Tue, 22 Aug 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for SIG-48-UJX-49KW from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Also, is there a wiki page documenting the LEGACY_SIGMA data model?
+
+Regards,
+David Kim
+Supply Chain
+

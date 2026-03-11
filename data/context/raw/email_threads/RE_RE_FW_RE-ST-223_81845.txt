@@ -1,0 +1,98 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: RE-ST-223 duplicate issue
+Date: Sun, 14 May 2023 17:00:00 +0000
+
+Hi all,
+
+FYI - we updated the XR-1012 mapping in last week's MDM refresh. New value: Resistant Starch.
+
+Let me know if you have questions.
+
+Thanks,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: RE-ST-223 duplicate issue
+Date: Thu, 30 Mar 2023 12:00:00 +0000
+
+Hi team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Thanks,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: RE-ST-223 duplicate issue
+Date: Sun, 26 Mar 2023 12:00:00 +0000
+
+Hi all,
+
+Just checked the mapping table: XR-1012 -> Resistant Starch-OLD. That's the official record.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: RE-ST-223 duplicate issue
+Date: Sun, 26 Mar 2023 03:00:00 +0000
+
+Hi all,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Cheers,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: RE-ST-223 duplicate issue
+Date: Sat, 25 Mar 2023 23:00:00 +0000
+
+Hi team,
+
+XR-1012 looks familiar. I remember discussing this in the last sync.
+
+Regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE-ST-223 duplicate issue
+Date: Sat, 25 Mar 2023 00:00:00 +0000
+
+Hi all,
+
+Need to trace XR-1012 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best,
+Robert Brown
+Master Data
+

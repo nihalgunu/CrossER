@@ -1,0 +1,113 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - ascorbic acid discrepancy
+Date: Fri, 23 Jun 2023 09:00:00 +0000
+
+Hi everyone,
+
+FYI - we updated the XR-1029 mapping in last week's MDM refresh. New value: Ascorbic Acid.
+
+Let me know if you have questions.
+
+Thanks!
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - ascorbic acid discrepancy
+Date: Sun, 07 May 2023 19:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+John Smith
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - ascorbic acid discrepancy
+Date: Sun, 07 May 2023 14:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - ascorbic acid discrepancy
+Date: Mon, 01 May 2023 14:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is XR-1029 = Ascorbic Acid Premium. This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - ascorbic acid discrepancy
+Date: Mon, 01 May 2023 12:00:00 +0000
+
+Hello,
+
+XR-1029 looks familiar. I remember discussing this in the last sync.
+
+Thanks!
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - ascorbic acid discrepancy
+Date: Mon, 01 May 2023 02:00:00 +0000
+
+Good morning,
+
+The staging database shows XR-1029 but the target assignment column is blank.
+
+Cheers,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - ascorbic acid discrepancy
+Date: Mon, 01 May 2023 00:00:00 +0000
+
+Good morning,
+
+Need to trace XR-1029 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+Jennifer Lee
+Compliance
+

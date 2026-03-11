@@ -1,0 +1,102 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - resistant starc codes
+Date: Tue, 03 Oct 2023 12:00:00 +0000
+
+Hi team,
+
+Following up on this. After checking with the migration team, I can confirm that the legacy code resistant starch corresponds to Resistant Starch in the new system.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - resistant starc codes
+Date: Mon, 02 Oct 2023 14:00:00 +0000
+
+Hi team,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks in advance,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - resistant starc codes
+Date: Sun, 01 Oct 2023 10:00:00 +0000
+
+Hello,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Cheers,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - resistant starc codes
+Date: Sun, 01 Oct 2023 05:00:00 +0000
+
+Hello,
+
+The ERP_DELTA documentation mentions resistant starch but the naming convention changed after the system update last year.
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - resistant starc codes
+Date: Sat, 30 Sep 2023 22:00:00 +0000
+
+Hi all,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Thanks in advance,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Quick question - resistant starc codes
+Date: Sat, 30 Sep 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for resistant starch from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+While I have you, do you know who handles the vendor payments for ERP_DELTA?
+
+Best,
+David Kim
+Supply Chain
+

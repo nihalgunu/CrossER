@@ -1,0 +1,113 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Mon, 24 Jul 2023 06:00:00 +0000
+
+Hey team,
+
+FYI - we updated the XR-1064 mapping in last week's MDM refresh. New value: Lactic Acid.
+
+Let me know if you have questions.
+
+Thanks,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Thu, 01 Jun 2023 14:00:00 +0000
+
+Hi all,
+
+BTW, I'll be OOO next week.
+
+Best regards,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Thu, 01 Jun 2023 07:00:00 +0000
+
+Hey team,
+
+Quick reminder: timesheets are due by EOD.
+
+Regards,
+John Smith
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Mon, 29 May 2023 07:00:00 +0000
+
+Hi all,
+
+XR-1064 maps to PRD-Lactic Aci. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Sun, 28 May 2023 20:00:00 +0000
+
+Good morning,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Cheers,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Sun, 28 May 2023 12:00:00 +0000
+
+Hi team,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_BETA staging assignment
+Date: Sun, 28 May 2023 00:00:00 +0000
+
+Hi team,
+
+Checking on internal code XR-1064 - what's the target entity?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+John Smith
+Data Governance
+

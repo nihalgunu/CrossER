@@ -1,0 +1,1227 @@
+{
+  "channel": {
+    "id": "C004",
+    "name": "migration-support",
+    "topic": "Migration project support",
+    "created": 1729660330
+  },
+  "messages": [
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "can someone approve my expense report?",
+      "ts": "1761198550.255148",
+      "timestamp": "2025-10-23T01:49:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "anyone know if Natriumbenzoat 25% Standardqualit\u00e4t from ERP_BETA maps to anything in ERP_ALPHA?",
+      "ts": "1761203590.255148",
+      "timestamp": "2025-10-23T03:13:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "checking...",
+      "ts": "1761205330.255148",
+      "timestamp": "2025-10-23T03:42:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": ":white_check_mark: Natriumbenzoat 25% Standardqualit\u00e4t = Sodium Benzoate 25% Standard",
+      "ts": "1761204430.255148",
+      "timestamp": "2025-10-23T03:27:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "thanks!",
+      "ts": "1761204490.255148",
+      "timestamp": "2025-10-23T03:28:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "@here need help with SIG-57-NGZ-ILDZ mapping",
+      "ts": "1761204970.255148",
+      "timestamp": "2025-10-23T03:36:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "I think it was in the runbook somewhere",
+      "ts": "1761206710.255148",
+      "timestamp": "2025-10-23T04:05:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "that's correct. the mapping is SIG-57-NGZ-ILDZ -> Coconut Oil",
+      "ts": "1761206770.255148",
+      "timestamp": "2025-10-23T04:06:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "got it, thanks!",
+      "ts": "1761212170.255148",
+      "timestamp": "2025-10-23T05:36:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "brb",
+      "ts": "1761217810.255148",
+      "timestamp": "2025-10-23T07:10:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761221650.255148",
+      "timestamp": "2025-10-23T08:14:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761226510.255148",
+      "timestamp": "2025-10-23T09:35:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "can someone approve my expense report?",
+      "ts": "1761231310.255148",
+      "timestamp": "2025-10-23T10:55:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "great job on the presentation yesterday @bot.helper!",
+      "ts": "1761234310.255148",
+      "timestamp": "2025-10-23T11:45:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "can someone confirm the mapping for CO-OI-966?",
+      "ts": "1761238630.255148",
+      "timestamp": "2025-10-23T12:57:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "yep they're the same. CO-OI-966 is just the legacy code for Coconut Oil",
+      "ts": "1761241210.255148",
+      "timestamp": "2025-10-23T13:40:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U009"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "perfect, thanks!",
+      "ts": "1761241390.255148",
+      "timestamp": "2025-10-23T13:43:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "hey quick question - is SIG-50-FUX-7S9T the same as Coconut Oil 98%?",
+      "ts": "1761238750.255148",
+      "timestamp": "2025-10-23T12:59:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "I think it was in the runbook somewhere",
+      "ts": "1761240130.255148",
+      "timestamp": "2025-10-23T13:22:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "yep they're the same. SIG-50-FUX-7S9T is just the legacy code for Coconut Oil 98%",
+      "ts": "1761241690.255148",
+      "timestamp": "2025-10-23T13:48:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U001"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": ":thumbsup:",
+      "ts": "1761241930.255148",
+      "timestamp": "2025-10-23T13:52:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "will do",
+      "ts": "1761240850.255148",
+      "timestamp": "2025-10-23T13:34:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761242590.255148",
+      "timestamp": "2025-10-23T14:03:10.255148",
+      "reactions": [
+        {
+          "name": "thumbsup",
+          "count": 5,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761249130.255148",
+      "timestamp": "2025-10-23T15:52:10.255148",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 1,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "@here need help with CO-OI-98-890 mapping",
+      "ts": "1761249670.255148",
+      "timestamp": "2025-10-23T16:01:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "yep they're the same. CO-OI-98-890 is just the legacy code for Coconut Oil 98%",
+      "ts": "1761251710.255148",
+      "timestamp": "2025-10-23T16:35:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "got it, ty!",
+      "ts": "1761252130.255148",
+      "timestamp": "2025-10-23T16:42:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761250930.255148",
+      "timestamp": "2025-10-23T16:22:10.255148",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 4,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "nice",
+      "ts": "1761253450.255148",
+      "timestamp": "2025-10-23T17:04:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "will do",
+      "ts": "1761255130.255148",
+      "timestamp": "2025-10-23T17:32:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "brb",
+      "ts": "1761255190.255148",
+      "timestamp": "2025-10-23T17:33:10.255148",
+      "reactions": [
+        {
+          "name": "+1",
+          "count": 5,
+          "users": [
+            "U001"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761256990.255148",
+      "timestamp": "2025-10-23T18:03:10.255148",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 5,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761261370.255148",
+      "timestamp": "2025-10-23T19:16:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": ":thumbsup:",
+      "ts": "1761267550.255148",
+      "timestamp": "2025-10-23T20:59:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "nice",
+      "ts": "1761273070.255148",
+      "timestamp": "2025-10-23T22:31:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": ":thumbsup:",
+      "ts": "1761276010.255148",
+      "timestamp": "2025-10-23T23:20:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761278950.255148",
+      "timestamp": "2025-10-24T00:09:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761284350.255148",
+      "timestamp": "2025-10-24T01:39:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761285490.255148",
+      "timestamp": "2025-10-24T01:58:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "great job on the presentation yesterday @sarah.chen!",
+      "ts": "1761288670.255148",
+      "timestamp": "2025-10-24T02:51:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "back online now",
+      "ts": "1761294670.255148",
+      "timestamp": "2025-10-24T04:31:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "great job on the presentation yesterday @lisa.rodriguez!",
+      "ts": "1761295450.255148",
+      "timestamp": "2025-10-24T04:44:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "great job on the presentation yesterday @anna.mueller!",
+      "ts": "1761301030.255148",
+      "timestamp": "2025-10-24T06:17:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "great job on the presentation yesterday @anna.mueller!",
+      "ts": "1761307690.255148",
+      "timestamp": "2025-10-24T08:08:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "reminder: when maltodextrin product has dextrose_equivalent > 20",
+      "ts": "1761313690.255148",
+      "timestamp": "2025-10-24T09:48:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "good to know",
+      "ts": "1761314170.255148",
+      "timestamp": "2025-10-24T09:56:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761320170.255148",
+      "timestamp": "2025-10-24T11:36:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761324430.255148",
+      "timestamp": "2025-10-24T12:47:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1761329290.255148",
+      "timestamp": "2025-10-24T14:08:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "lol",
+      "ts": "1761336010.255148",
+      "timestamp": "2025-10-24T16:00:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "got it, thanks!",
+      "ts": "1761337030.255148",
+      "timestamp": "2025-10-24T16:17:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "@here need help with Coconut Oil 98% mapping",
+      "ts": "1761342730.255148",
+      "timestamp": "2025-10-24T17:52:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": ":white_check_mark: Coconut Oil 98% = Coconut Oil 98%",
+      "ts": "1761343630.255148",
+      "timestamp": "2025-10-24T18:07:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": ":thumbsup:",
+      "ts": "1761344050.255148",
+      "timestamp": "2025-10-24T18:14:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761344230.255148",
+      "timestamp": "2025-10-24T18:17:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "lol",
+      "ts": "1761351430.255148",
+      "timestamp": "2025-10-24T20:17:10.255148",
+      "reactions": [
+        {
+          "name": "100",
+          "count": 4,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761356770.255148",
+      "timestamp": "2025-10-24T21:46:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "back online now",
+      "ts": "1761363490.255148",
+      "timestamp": "2025-10-24T23:38:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "@here need help with SIG-13-JUR-FV2B mapping",
+      "ts": "1761366250.255148",
+      "timestamp": "2025-10-25T00:24:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "let me check the migration docs...",
+      "ts": "1761367210.255148",
+      "timestamp": "2025-10-25T00:40:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "yep they're the same. SIG-13-JUR-FV2B is just the legacy code for Sodium Benzoate 99.5% Grade A",
+      "ts": "1761368110.255148",
+      "timestamp": "2025-10-25T00:55:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "perfect, thanks!",
+      "ts": "1761368350.255148",
+      "timestamp": "2025-10-25T00:59:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761370450.255148",
+      "timestamp": "2025-10-25T01:34:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "got it, thanks!",
+      "ts": "1761374110.255148",
+      "timestamp": "2025-10-25T02:35:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761378790.255148",
+      "timestamp": "2025-10-25T03:53:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761381010.255148",
+      "timestamp": "2025-10-25T04:30:10.255148",
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 1,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "can someone approve my expense report?",
+      "ts": "1761383950.255148",
+      "timestamp": "2025-10-25T05:19:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "thanks for the help earlier!",
+      "ts": "1761385330.255148",
+      "timestamp": "2025-10-25T05:42:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "nice",
+      "ts": "1761386470.255148",
+      "timestamp": "2025-10-25T06:01:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "great job on the presentation yesterday @bot.helper!",
+      "ts": "1761390430.255148",
+      "timestamp": "2025-10-25T07:07:10.255148",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 3,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761392770.255148",
+      "timestamp": "2025-10-25T07:46:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "got it, thanks!",
+      "ts": "1761399610.255148",
+      "timestamp": "2025-10-25T09:40:10.255148",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "count": 1,
+          "users": [
+            "U001"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "lol",
+      "ts": "1761400270.255148",
+      "timestamp": "2025-10-25T09:51:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1761403750.255148",
+      "timestamp": "2025-10-25T10:49:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "will do",
+      "ts": "1761410950.255148",
+      "timestamp": "2025-10-25T12:49:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761413710.255148",
+      "timestamp": "2025-10-25T13:35:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "nice",
+      "ts": "1761420610.255148",
+      "timestamp": "2025-10-25T15:30:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "back online now",
+      "ts": "1761424750.255148",
+      "timestamp": "2025-10-25T16:39:10.255148",
+      "reactions": [
+        {
+          "name": "+1",
+          "count": 3,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761430150.255148",
+      "timestamp": "2025-10-25T18:09:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "anyone know if SO-BE-99.5-GR-A-143 from ERP_GAMMA maps to anything in ERP_ALPHA?",
+      "ts": "1761435490.255148",
+      "timestamp": "2025-10-25T19:38:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "that's correct. the mapping is SO-BE-99.5-GR-A-143 -> Sodium Benzoate 99.5% Grade A",
+      "ts": "1761436570.255148",
+      "timestamp": "2025-10-25T19:56:10.255148",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "important: when glucose syrup has fructose content > 50%",
+      "ts": "1761440770.255148",
+      "timestamp": "2025-10-25T21:06:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "noted",
+      "ts": "1761442090.255148",
+      "timestamp": "2025-10-25T21:28:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761446830.255148",
+      "timestamp": "2025-10-25T22:47:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761450310.255148",
+      "timestamp": "2025-10-25T23:45:10.255148",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 2,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "great job on the presentation yesterday @anna.mueller!",
+      "ts": "1761454270.255148",
+      "timestamp": "2025-10-26T00:51:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761456610.255148",
+      "timestamp": "2025-10-26T01:30:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "who's joining for lunch?",
+      "ts": "1761460630.255148",
+      "timestamp": "2025-10-26T02:37:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761464530.255148",
+      "timestamp": "2025-10-26T03:42:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "will do",
+      "ts": "1761469630.255148",
+      "timestamp": "2025-10-26T05:07:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "sounds good",
+      "ts": "1761470350.255148",
+      "timestamp": "2025-10-26T05:19:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761475810.255148",
+      "timestamp": "2025-10-26T06:50:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "who's joining for lunch?",
+      "ts": "1761478150.255148",
+      "timestamp": "2025-10-26T07:29:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "brb",
+      "ts": "1761485050.255148",
+      "timestamp": "2025-10-26T09:24:10.255148",
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 2,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "sounds good",
+      "ts": "1761489730.255148",
+      "timestamp": "2025-10-26T10:42:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "will do",
+      "ts": "1761492670.255148",
+      "timestamp": "2025-10-26T11:31:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": ":thumbsup:",
+      "ts": "1761496030.255148",
+      "timestamp": "2025-10-26T12:27:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "got it, thanks!",
+      "ts": "1761499450.255148",
+      "timestamp": "2025-10-26T13:24:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "sounds good",
+      "ts": "1761504370.255148",
+      "timestamp": "2025-10-26T14:46:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "will do",
+      "ts": "1761509290.255148",
+      "timestamp": "2025-10-26T16:08:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "thanks for the help earlier!",
+      "ts": "1761512530.255148",
+      "timestamp": "2025-10-26T17:02:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761515170.255148",
+      "timestamp": "2025-10-26T17:46:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "will do",
+      "ts": "1761518290.255148",
+      "timestamp": "2025-10-26T18:38:10.255148",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 2,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "thanks for the help earlier!",
+      "ts": "1761523150.255148",
+      "timestamp": "2025-10-26T19:59:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761530230.255148",
+      "timestamp": "2025-10-26T21:57:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "will do",
+      "ts": "1761532450.255148",
+      "timestamp": "2025-10-26T22:34:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "great job on the presentation yesterday @james.wilson!",
+      "ts": "1761534610.255148",
+      "timestamp": "2025-10-26T23:10:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1761536350.255148",
+      "timestamp": "2025-10-26T23:39:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "great job on the presentation yesterday @maria.garcia!",
+      "ts": "1761536590.255148",
+      "timestamp": "2025-10-26T23:43:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "sounds good",
+      "ts": "1761537490.255148",
+      "timestamp": "2025-10-26T23:58:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "brb",
+      "ts": "1761539590.255148",
+      "timestamp": "2025-10-27T00:33:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761541450.255148",
+      "timestamp": "2025-10-27T01:04:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "great job on the presentation yesterday @john.smith!",
+      "ts": "1761543310.255148",
+      "timestamp": "2025-10-27T01:35:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "great job on the presentation yesterday @maria.garcia!",
+      "ts": "1761546010.255148",
+      "timestamp": "2025-10-27T02:20:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "brb",
+      "ts": "1761550270.255148",
+      "timestamp": "2025-10-27T03:31:10.255148",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761555250.255148",
+      "timestamp": "2025-10-27T04:54:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "thanks for the help earlier!",
+      "ts": "1761561310.255148",
+      "timestamp": "2025-10-27T06:35:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761564310.255148",
+      "timestamp": "2025-10-27T07:25:10.255148",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761568630.255148",
+      "timestamp": "2025-10-27T08:37:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "will do",
+      "ts": "1761572830.255148",
+      "timestamp": "2025-10-27T09:47:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761576970.255148",
+      "timestamp": "2025-10-27T10:56:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761581110.255148",
+      "timestamp": "2025-10-27T12:05:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761581230.255148",
+      "timestamp": "2025-10-27T12:07:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761584050.255148",
+      "timestamp": "2025-10-27T12:54:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "thanks for the help earlier!",
+      "ts": "1761586570.255148",
+      "timestamp": "2025-10-27T13:36:10.255148"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761588670.255148",
+      "timestamp": "2025-10-27T14:11:10.255148"
+    }
+  ],
+  "export_date": "2026-03-08T01:12:10.255503",
+  "message_count": 126
+}

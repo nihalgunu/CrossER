@@ -1,0 +1,43 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Migration timeline update
+Date: Sun, 04 Jun 2023 00:00:00 +0000
+
+Good morning,
+
+Off-topic: anyone want to grab coffee later?
+
+Regards,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Migration timeline update
+Date: Sun, 04 Jun 2023 14:00:00 +0000
+
+Hi team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks!
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Migration timeline update
+Date: Mon, 05 Jun 2023 08:00:00 +0000
+
+Hi team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best,
+Anna Mueller
+EU Operations
+

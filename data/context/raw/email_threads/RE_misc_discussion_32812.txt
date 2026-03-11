@@ -1,0 +1,43 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Mon, 05 Jun 2023 00:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks,
+Sarah Chen
+IT Systems
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Mon, 05 Jun 2023 18:00:00 +0000
+
+Hi all,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Thanks in advance,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Tue, 06 Jun 2023 20:00:00 +0000
+
+Hey team,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks,
+David Kim
+Supply Chain
+

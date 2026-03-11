@@ -1,0 +1,43 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Thu, 15 Jun 2023 00:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Best regards,
+Maria Garcia
+Procurement
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Thu, 15 Jun 2023 15:00:00 +0000
+
+Hey team,
+
+Off-topic: anyone want to grab coffee later?
+
+Regards,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Thu, 15 Jun 2023 18:00:00 +0000
+
+Good morning,
+
+Quick reminder: timesheets are due by EOD.
+
+Best regards,
+Jennifer Lee
+Compliance
+

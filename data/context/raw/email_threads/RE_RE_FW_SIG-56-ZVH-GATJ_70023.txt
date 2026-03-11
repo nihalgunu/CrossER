@@ -1,0 +1,53 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SIG-56-ZVH-GATJ migration
+Date: Mon, 25 Sep 2023 14:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the migration team: SIG-56-ZVH-GATJ in LEGACY_SIGMA maps to Pea Protein 99.5% in ERP_ALPHA.
+The LEGACY_SIGMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on SIG-56-ZVH-GATJ migration
+Date: Sat, 23 Sep 2023 16:00:00 +0000
+
+Hi everyone,
+
+BTW, I'll be OOO next week.
+
+Thanks in advance,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Clarification on SIG-56-ZVH-GATJ migration
+Date: Sat, 23 Sep 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for SIG-56-ZVH-GATJ from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Robert from the integration team?
+
+Regards,
+David Kim
+Supply Chain
+

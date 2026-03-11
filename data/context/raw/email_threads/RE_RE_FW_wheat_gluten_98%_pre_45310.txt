@@ -1,0 +1,101 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - wheat gluten 98 discrepancy
+Date: Mon, 07 Aug 2023 13:00:00 +0000
+
+Hi team,
+
+Following up on this. I double-checked and wheat gluten 98% premium in ERP_DELTA maps to Wheat Gluten 98% Premium in ERP_ALPHA.
+The ERP_DELTA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - wheat gluten 98 discrepancy
+Date: Mon, 07 Aug 2023 07:00:00 +0000
+
+Quick question -
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - wheat gluten 98 discrepancy
+Date: Sun, 06 Aug 2023 01:00:00 +0000
+
+Quick question -
+
+The ERP_DELTA documentation mentions wheat gluten 98% premium but the naming convention changed after the system update last year.
+
+Best,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - wheat gluten 98 discrepancy
+Date: Sat, 05 Aug 2023 01:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks in advance,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - wheat gluten 98 discrepancy
+Date: Thu, 03 Aug 2023 17:00:00 +0000
+
+Hi everyone,
+
+I think wheat gluten 98% premium might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_DELTA team.
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - wheat gluten 98 discrepancy
+Date: Thu, 03 Aug 2023 00:00:00 +0000
+
+Good morning,
+
+I'm trying to find the correct mapping for wheat gluten 98% premium from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+While I have you, do you know who handles the vendor payments for ERP_DELTA?
+
+Thanks!
+James Wilson
+Finance
+

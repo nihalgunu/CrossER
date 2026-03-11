@@ -1,0 +1,101 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - RA-OI-258 discrepancy
+Date: Mon, 04 Sep 2023 06:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the migration team: RA-OI-258 (ERP_GAMMA) = Rapeseed Oil (ERP_ALPHA).
+The ERP_GAMMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - RA-OI-258 discrepancy
+Date: Sun, 03 Sep 2023 11:00:00 +0000
+
+Hey team,
+
+The ERP_GAMMA documentation mentions RA-OI-258 but the naming convention changed after the system update last year.
+
+Cheers,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - RA-OI-258 discrepancy
+Date: Sat, 02 Sep 2023 20:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks in advance,
+John Smith
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - RA-OI-258 discrepancy
+Date: Fri, 01 Sep 2023 02:00:00 +0000
+
+Hello,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Thanks,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - RA-OI-258 discrepancy
+Date: Wed, 30 Aug 2023 06:00:00 +0000
+
+Hi everyone,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - RA-OI-258 discrepancy
+Date: Wed, 30 Aug 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for RA-OI-258 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Also, is there a wiki page documenting the ERP_GAMMA data model?
+
+Thanks in advance,
+Jennifer Lee
+Compliance
+

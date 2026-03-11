@@ -1,0 +1,101 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about Ascorbic Acid P mapping
+Date: Tue, 13 Jun 2023 06:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that Ascorbic Acid Pharmazeutisch rein should be treated as equivalent to Ascorbic Acid Pharma Grade.
+The ERP_BETA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Question about Ascorbic Acid P mapping
+Date: Mon, 12 Jun 2023 05:00:00 +0000
+
+Hi team,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Question about Ascorbic Acid P mapping
+Date: Mon, 12 Jun 2023 02:00:00 +0000
+
+Hi all,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Question about Ascorbic Acid P mapping
+Date: Sat, 10 Jun 2023 09:00:00 +0000
+
+Quick question -
+
+The ERP_BETA documentation mentions Ascorbic Acid Pharmazeutisch rein but the naming convention changed after the system update last year.
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about Ascorbic Acid P mapping
+Date: Fri, 09 Jun 2023 10:00:00 +0000
+
+Hi team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Best,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Question about Ascorbic Acid P mapping
+Date: Fri, 09 Jun 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for Ascorbic Acid Pharmazeutisch rein from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Best,
+Maria Garcia
+Procurement
+

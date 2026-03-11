@@ -1,0 +1,113 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about FR-GR-A-600 mapping
+Date: Sat, 15 Apr 2023 21:00:00 +0000
+
+Hey team,
+
+Note: disregard the earlier Fructose Grade B mapping for BC-1007. Correct assignment is Fructose Grade A.
+
+Let me know if you have questions.
+
+Regards,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Question about FR-GR-A-600 mapping
+Date: Sat, 11 Mar 2023 13:00:00 +0000
+
+Good morning,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks!
+David Kim
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Question about FR-GR-A-600 mapping
+Date: Sat, 11 Mar 2023 10:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks!
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Question about FR-GR-A-600 mapping
+Date: Sun, 05 Mar 2023 10:00:00 +0000
+
+Hi all,
+
+BC-1007 maps to Fructose Grade B. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Question about FR-GR-A-600 mapping
+Date: Sun, 05 Mar 2023 08:00:00 +0000
+
+Hi everyone,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Question about FR-GR-A-600 mapping
+Date: Sun, 05 Mar 2023 03:00:00 +0000
+
+Hi team,
+
+The staging database shows BC-1007 but the target assignment column is blank.
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Question about FR-GR-A-600 mapping
+Date: Sun, 05 Mar 2023 00:00:00 +0000
+
+Hello,
+
+Does anyone know the target assignment for staging code BC-1007?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Jennifer Lee
+Compliance
+

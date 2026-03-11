@@ -1,0 +1,43 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Sun, 16 Jul 2023 00:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best regards,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Sun, 16 Jul 2023 22:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Mon, 17 Jul 2023 00:00:00 +0000
+
+Hey team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best regards,
+Maria Garcia
+Procurement
+

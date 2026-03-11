@@ -1,0 +1,98 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Wed, 10 May 2023 13:00:00 +0000
+
+Hello,
+
+Heads up, the Sunflower Oil 98% Standard assignment was superseded. XR-1038 now points to Sunflower Oil 98% Premium.
+
+Let me know if you have questions.
+
+Best regards,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sat, 11 Mar 2023 08:00:00 +0000
+
+Hi team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Best,
+David Kim
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sun, 05 Mar 2023 08:00:00 +0000
+
+Hi all,
+
+I can confirm that XR-1038 corresponds to Sunflower Oil 98% Standard. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sat, 04 Mar 2023 20:00:00 +0000
+
+Good morning,
+
+I think XR-1038 was assigned during the ERP_GAMMA migration, but I'm not 100% sure of the target.
+
+Cheers,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_GAMMA entity mapping
+Date: Sat, 04 Mar 2023 14:00:00 +0000
+
+Hey team,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Best,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Need help with ERP_GAMMA entity mapping
+Date: Sat, 04 Mar 2023 00:00:00 +0000
+
+Hello,
+
+Checking on internal code XR-1038 - what's the target entity?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+

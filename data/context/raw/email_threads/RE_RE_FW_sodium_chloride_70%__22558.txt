@@ -1,0 +1,101 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Sat, 09 Sep 2023 22:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the legacy system admin: sodium chloride 70% standard in ERP_DELTA maps to Sodium Chloride 70% Grade B in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Sat, 09 Sep 2023 01:00:00 +0000
+
+Hi everyone,
+
+I think sodium chloride 70% standard might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_DELTA team.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Fri, 08 Sep 2023 17:00:00 +0000
+
+Hello,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Best,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Fri, 08 Sep 2023 12:00:00 +0000
+
+Hey team,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_DELTA entity mapping
+Date: Wed, 06 Sep 2023 19:00:00 +0000
+
+Hi all,
+
+Off-topic: anyone want to grab coffee later?
+
+Regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Need help with ERP_DELTA entity mapping
+Date: Wed, 06 Sep 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for sodium chloride 70% standard from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in John from the integration team?
+
+Thanks,
+Robert Brown
+Master Data
+

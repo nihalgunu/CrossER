@@ -1,0 +1,43 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Mon, 19 Jun 2023 00:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Thanks,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Mon, 19 Jun 2023 11:00:00 +0000
+
+Hey team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Tue, 20 Jun 2023 04:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Thanks in advance,
+David Kim
+Supply Chain
+

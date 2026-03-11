@@ -1,0 +1,85 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Wed, 19 Jul 2023 02:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the migration team: SIG-44-MHK-SRCB in LEGACY_SIGMA maps to Lactic Acid in ERP_ALPHA.
+The confusion arose because there were two similar codes in LEGACY_SIGMA. This is the correct one based on the product specifications.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Tue, 18 Jul 2023 14:00:00 +0000
+
+Hey team,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks!
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Mon, 17 Jul 2023 15:00:00 +0000
+
+Quick question -
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks!
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Mon, 17 Jul 2023 13:00:00 +0000
+
+Hi all,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Thanks,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Mon, 17 Jul 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for SIG-44-MHK-SRCB from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Jennifer from the integration team?
+
+Thanks!
+Sarah Chen
+IT Systems
+

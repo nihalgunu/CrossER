@@ -1,0 +1,43 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Sat, 21 Oct 2023 00:00:00 +0000
+
+Good morning,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks,
+Maria Garcia
+Procurement
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Sat, 21 Oct 2023 14:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Sun, 22 Oct 2023 18:00:00 +0000
+
+Hi everyone,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+

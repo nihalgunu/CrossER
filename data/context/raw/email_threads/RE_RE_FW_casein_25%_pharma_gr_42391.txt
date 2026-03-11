@@ -1,0 +1,116 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - casein 25% phar codes
+Date: Wed, 18 Oct 2023 21:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that casein 25% pharma grade in ERP_DELTA maps to Casein 25% Pharma Grade in ERP_ALPHA.
+The ERP_DELTA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - casein 25% phar codes
+Date: Wed, 18 Oct 2023 11:00:00 +0000
+
+Hi team,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - casein 25% phar codes
+Date: Mon, 16 Oct 2023 16:00:00 +0000
+
+Quick question -
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - casein 25% phar codes
+Date: Sun, 15 Oct 2023 07:00:00 +0000
+
+Hi all,
+
+BTW, I'll be OOO next week.
+
+Best regards,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - casein 25% phar codes
+Date: Sat, 14 Oct 2023 02:00:00 +0000
+
+Hi team,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - casein 25% phar codes
+Date: Thu, 12 Oct 2023 02:00:00 +0000
+
+Hello,
+
+The ERP_DELTA documentation mentions casein 25% pharma grade but the naming convention changed after the system update last year.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Quick question - casein 25% phar codes
+Date: Thu, 12 Oct 2023 00:00:00 +0000
+
+Good morning,
+
+I'm trying to find the correct mapping for casein 25% pharma grade from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+

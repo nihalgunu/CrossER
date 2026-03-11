@@ -1,0 +1,43 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 12 Jun 2023 00:00:00 +0000
+
+Hi all,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks in advance,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 12 Jun 2023 09:00:00 +0000
+
+Hi team,
+
+BTW, I'll be OOO next week.
+
+Best,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Tue, 13 Jun 2023 22:00:00 +0000
+
+Quick question -
+
+Off-topic: anyone want to grab coffee later?
+
+Cheers,
+David Kim
+Supply Chain
+

@@ -1,0 +1,43 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Sat, 03 Jun 2023 00:00:00 +0000
+
+Hey team,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Sat, 03 Jun 2023 10:00:00 +0000
+
+Hey team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Thanks in advance,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Sun, 04 Jun 2023 16:00:00 +0000
+
+Hi team,
+
+Quick reminder: timesheets are due by EOD.
+
+Thanks,
+David Kim
+Supply Chain
+

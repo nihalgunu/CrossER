@@ -1,0 +1,98 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1033
+Date: Sat, 17 Jun 2023 18:00:00 +0000
+
+Hi all,
+
+Actually, small update on MG-1033 - the previous mapping was outdated. Current target is Pea Protein 50%.
+
+Let me know if you have questions.
+
+Regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1033
+Date: Mon, 29 May 2023 08:00:00 +0000
+
+Good morning,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best regards,
+David Kim
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1033
+Date: Sun, 28 May 2023 08:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is MG-1033 = PRD-Pea Protei. This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1033
+Date: Sun, 28 May 2023 05:00:00 +0000
+
+Hi everyone,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Regards,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1033
+Date: Sat, 27 May 2023 17:00:00 +0000
+
+Hi everyone,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Best,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code MG-1033
+Date: Sat, 27 May 2023 00:00:00 +0000
+
+Hey team,
+
+Does anyone know the target assignment for staging code MG-1033?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+John Smith
+Data Governance
+

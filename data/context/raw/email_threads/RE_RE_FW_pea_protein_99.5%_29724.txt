@@ -1,0 +1,132 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Wed, 08 Nov 2023 17:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: pea protein 99.5% in ERP_DELTA maps to Pea Protein 99.5% in ERP_ALPHA.
+This mapping was verified during the DELTA_CONSOLIDATION_2023 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Wed, 08 Nov 2023 03:00:00 +0000
+
+Hi team,
+
+I think pea protein 99.5% might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_DELTA team.
+
+Thanks,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Mon, 06 Nov 2023 04:00:00 +0000
+
+Hey team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Sun, 05 Nov 2023 14:00:00 +0000
+
+Hi all,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks in advance,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Sun, 05 Nov 2023 04:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Best,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Sat, 04 Nov 2023 02:00:00 +0000
+
+Hey team,
+
+The ERP_DELTA documentation mentions pea protein 99.5% but the naming convention changed after the system update last year.
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Quick question - pea protein 99. codes
+Date: Thu, 02 Nov 2023 14:00:00 +0000
+
+Quick question -
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Quick question - pea protein 99. codes
+Date: Thu, 02 Nov 2023 00:00:00 +0000
+
+Hey team,
+
+I'm trying to find the correct mapping for pea protein 99.5% from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Robert from the integration team?
+
+Thanks!
+John Smith
+Data Governance
+

@@ -1,0 +1,85 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about Traubenzucker L mapping
+Date: Thu, 31 Aug 2023 01:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the data steward: Traubenzucker Lebensmittelrein should be treated as equivalent to Dextrose Food Grade.
+The confusion arose because there were two similar codes in ERP_BETA. This is the correct one based on the product specifications.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Question about Traubenzucker L mapping
+Date: Wed, 30 Aug 2023 04:00:00 +0000
+
+Hi everyone,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Thanks!
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Question about Traubenzucker L mapping
+Date: Mon, 28 Aug 2023 15:00:00 +0000
+
+Quick question -
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks in advance,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about Traubenzucker L mapping
+Date: Sun, 27 Aug 2023 21:00:00 +0000
+
+Hello,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Question about Traubenzucker L mapping
+Date: Sun, 27 Aug 2023 00:00:00 +0000
+
+Hi all,
+
+I'm trying to find the correct mapping for Traubenzucker Lebensmittelrein from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Thanks!
+Anna Mueller
+EU Operations
+

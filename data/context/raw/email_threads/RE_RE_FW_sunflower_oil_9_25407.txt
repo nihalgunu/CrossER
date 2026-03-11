@@ -1,0 +1,128 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Mon, 03 Apr 2023 16:00:00 +0000
+
+Hi everyone,
+
+Quick correction: BC-1041 was remapped to Sunflower Oil 98% Premium per ticket MDM-2023-4521.
+
+Let me know if you have questions.
+
+Best regards,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Sat, 18 Mar 2023 14:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Sat, 18 Mar 2023 02:00:00 +0000
+
+Hey team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Regards,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Fri, 17 Mar 2023 06:00:00 +0000
+
+Hi team,
+
+BTW, I'll be OOO next week.
+
+Best,
+David Kim
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Sun, 12 Mar 2023 06:00:00 +0000
+
+Hi all,
+
+According to the migration runbook, BC-1041 is definitely Sunflower Oil 98% Premium-LEGACY.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Sun, 12 Mar 2023 02:00:00 +0000
+
+Good morning,
+
+The staging database shows BC-1041 but the target assignment column is blank.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Question about sunflower oil 9 mapping
+Date: Sat, 11 Mar 2023 22:00:00 +0000
+
+Hello,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Question about sunflower oil 9 mapping
+Date: Sat, 11 Mar 2023 00:00:00 +0000
+
+Hello,
+
+I have entity in staging with code BC-1041. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks,
+David Kim
+Supply Chain
+

@@ -1,0 +1,128 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Thu, 06 Apr 2023 16:00:00 +0000
+
+Hi everyone,
+
+FYI - we updated the TC-1027 mapping in last week's MDM refresh. New value: Ascorbic Acid.
+
+Let me know if you have questions.
+
+Regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Sat, 18 Mar 2023 18:00:00 +0000
+
+Hi all,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Best,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Sat, 18 Mar 2023 11:00:00 +0000
+
+Hi everyone,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Cheers,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Sat, 18 Mar 2023 05:00:00 +0000
+
+Hi all,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Tue, 14 Mar 2023 05:00:00 +0000
+
+Hi all,
+
+Just checked the mapping table: TC-1027 -> PRD-Ascorbic A. That's the official record.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Mon, 13 Mar 2023 20:00:00 +0000
+
+Hi all,
+
+I think TC-1027 was assigned during the ERP_BETA migration, but I'm not 100% sure of the target.
+
+Cheers,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Ascorbic Acid discrepancy
+Date: Mon, 13 Mar 2023 10:00:00 +0000
+
+Hi everyone,
+
+The staging database shows TC-1027 but the target assignment column is blank.
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - Ascorbic Acid discrepancy
+Date: Mon, 13 Mar 2023 00:00:00 +0000
+
+Hello,
+
+Does anyone know the target assignment for staging code TC-1027?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Robert Brown
+Master Data
+

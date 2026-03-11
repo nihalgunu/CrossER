@@ -1,0 +1,84 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on Ascorbic Acid S migration
+Date: Sun, 02 Jul 2023 10:00:00 +0000
+
+Hi team,
+
+Following up on this. After checking with the legacy system admin, I can confirm that Ascorbic Acid Standardqualität (ERP_BETA) = Ascorbic Acid Standard (ERP_ALPHA).
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks in advance,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on Ascorbic Acid S migration
+Date: Sat, 01 Jul 2023 12:00:00 +0000
+
+Quick question -
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Best,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on Ascorbic Acid S migration
+Date: Fri, 30 Jun 2023 23:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Thanks in advance,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on Ascorbic Acid S migration
+Date: Fri, 30 Jun 2023 05:00:00 +0000
+
+Good morning,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Clarification on Ascorbic Acid S migration
+Date: Fri, 30 Jun 2023 00:00:00 +0000
+
+Hi everyone,
+
+I'm trying to find the correct mapping for Ascorbic Acid Standardqualität from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Do we have a meeting scheduled to discuss this further?
+
+Best,
+Anna Mueller
+EU Operations
+

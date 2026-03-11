@@ -1,0 +1,43 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Tue, 19 Sep 2023 00:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Best,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Tue, 19 Sep 2023 22:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Tue, 19 Sep 2023 06:00:00 +0000
+
+Good morning,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best,
+John Smith
+Data Governance
+

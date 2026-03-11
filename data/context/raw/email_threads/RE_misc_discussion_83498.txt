@@ -1,0 +1,43 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 03 Jul 2023 00:00:00 +0000
+
+Hi team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best,
+Maria Garcia
+Procurement
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Mon, 03 Jul 2023 07:00:00 +0000
+
+Hello,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Tue, 04 Jul 2023 06:00:00 +0000
+
+Hi all,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best regards,
+Sarah Chen
+IT Systems
+

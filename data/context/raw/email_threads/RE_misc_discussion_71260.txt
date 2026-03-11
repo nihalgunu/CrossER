@@ -1,0 +1,43 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 02 Jun 2023 00:00:00 +0000
+
+Hello,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks!
+David Kim
+Supply Chain
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 02 Jun 2023 17:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Cheers,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 02 Jun 2023 12:00:00 +0000
+
+Hi everyone,
+
+Off-topic: anyone want to grab coffee later?
+
+Cheers,
+Maria Garcia
+Procurement
+

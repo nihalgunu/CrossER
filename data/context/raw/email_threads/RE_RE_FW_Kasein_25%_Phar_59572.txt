@@ -1,0 +1,98 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Wed, 03 May 2023 21:00:00 +0000
+
+Hi team,
+
+Actually, small update on MR-1020 - the previous mapping was outdated. Current target is Casein 25% Pharma Grade.
+
+Let me know if you have questions.
+
+Cheers,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Fri, 24 Mar 2023 05:00:00 +0000
+
+Hi all,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks!
+John Smith
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Wed, 22 Mar 2023 05:00:00 +0000
+
+Hi all,
+
+I can confirm that MR-1020 corresponds to Casein 25% Pharma Grade Premium. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Wed, 22 Mar 2023 01:00:00 +0000
+
+Hey team,
+
+MR-1020 looks familiar. I remember discussing this in the last sync.
+
+Thanks,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA staging assignment
+Date: Tue, 21 Mar 2023 16:00:00 +0000
+
+Good morning,
+
+I think MR-1020 was assigned during the ERP_BETA migration, but I'm not 100% sure of the target.
+
+Thanks,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_BETA staging assignment
+Date: Tue, 21 Mar 2023 00:00:00 +0000
+
+Hi all,
+
+Need to trace MR-1020 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best regards,
+Maria Garcia
+Procurement
+

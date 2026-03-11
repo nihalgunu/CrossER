@@ -1,0 +1,128 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Tue, 11 Apr 2023 12:00:00 +0000
+
+Hey team,
+
+Actually, small update on MG-1001 - the previous mapping was outdated. Current target is Sodium Chloride 70% Grade B.
+
+Let me know if you have questions.
+
+Thanks,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Wed, 22 Mar 2023 01:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Tue, 21 Mar 2023 11:00:00 +0000
+
+Hi team,
+
+BTW, I'll be OOO next week.
+
+Regards,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Mon, 20 Mar 2023 16:00:00 +0000
+
+Hey team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks!
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Tue, 14 Mar 2023 16:00:00 +0000
+
+Hi all,
+
+Just checked the mapping table: MG-1001 -> Sodium Chloride 70% Grade B Grade A. That's the official record.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Tue, 14 Mar 2023 07:00:00 +0000
+
+Hi everyone,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Tue, 14 Mar 2023 03:00:00 +0000
+
+Hi team,
+
+I think MG-1001 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: SIG-30-PVA-ZMF8 duplicate issue
+Date: Tue, 14 Mar 2023 00:00:00 +0000
+
+Hi everyone,
+
+Does anyone know the target assignment for staging code MG-1001?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+David Kim
+Supply Chain
+

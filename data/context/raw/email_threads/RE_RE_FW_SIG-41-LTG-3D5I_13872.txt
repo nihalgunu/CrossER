@@ -1,0 +1,98 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Thu, 29 Jun 2023 02:00:00 +0000
+
+Hi all,
+
+Note: disregard the earlier Cyclodextrin Premium mapping for MG-1044. Correct assignment is Cyclodextrin.
+
+Let me know if you have questions.
+
+Thanks,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Wed, 31 May 2023 17:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Cheers,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Tue, 30 May 2023 17:00:00 +0000
+
+Hi all,
+
+I can confirm that MG-1044 corresponds to Cyclodextrin Premium. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Tue, 30 May 2023 10:00:00 +0000
+
+Good morning,
+
+I think MG-1044 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Thanks,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Tue, 30 May 2023 06:00:00 +0000
+
+Hi team,
+
+MG-1044 looks familiar. I remember discussing this in the last sync.
+
+Thanks!
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: RE: LEGACY_SIGMA staging assignment
+Date: Tue, 30 May 2023 00:00:00 +0000
+
+Good morning,
+
+I have entity in staging with code MG-1044. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+James Wilson
+Finance
+

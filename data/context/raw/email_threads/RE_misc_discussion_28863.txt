@@ -1,0 +1,43 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Thu, 16 Nov 2023 00:00:00 +0000
+
+Hello,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks!
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Thu, 16 Nov 2023 20:00:00 +0000
+
+Hello,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks!
+Sarah Chen
+IT Systems
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Thu, 16 Nov 2023 20:00:00 +0000
+
+Hello,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Cheers,
+Maria Garcia
+Procurement
+

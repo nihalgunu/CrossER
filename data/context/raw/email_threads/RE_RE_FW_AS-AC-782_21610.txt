@@ -1,0 +1,98 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: AS-AC-782 duplicate issue
+Date: Mon, 15 May 2023 18:00:00 +0000
+
+Hey team,
+
+Actually, small update on XR-1026 - the previous mapping was outdated. Current target is Ascorbic Acid.
+
+Let me know if you have questions.
+
+Best,
+John Smith
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: AS-AC-782 duplicate issue
+Date: Mon, 17 Apr 2023 03:00:00 +0000
+
+Good morning,
+
+Also, does anyone know if the cafeteria is open today?
+
+Cheers,
+John Smith
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: AS-AC-782 duplicate issue
+Date: Sun, 16 Apr 2023 03:00:00 +0000
+
+Hi all,
+
+According to the migration runbook, XR-1026 is definitely Ascorbic Acid-OLD.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: AS-AC-782 duplicate issue
+Date: Sun, 16 Apr 2023 02:00:00 +0000
+
+Hey team,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: AS-AC-782 duplicate issue
+Date: Sat, 15 Apr 2023 14:00:00 +0000
+
+Hi everyone,
+
+XR-1026 looks familiar. I remember discussing this in the last sync.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: AS-AC-782 duplicate issue
+Date: Sat, 15 Apr 2023 00:00:00 +0000
+
+Hi everyone,
+
+Need to trace XR-1026 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+David Kim
+Supply Chain
+

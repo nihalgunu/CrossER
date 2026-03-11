@@ -1,0 +1,43 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Tue, 24 Oct 2023 00:00:00 +0000
+
+Hi all,
+
+Off-topic: anyone want to grab coffee later?
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Tue, 24 Oct 2023 22:00:00 +0000
+
+Hi team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Regards,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Wed, 25 Oct 2023 20:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Cheers,
+David Kim
+Supply Chain
+

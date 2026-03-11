@@ -1,0 +1,98 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about AS-AC-GR-B-395 mapping
+Date: Thu, 01 Jun 2023 09:00:00 +0000
+
+Hi all,
+
+FYI - we updated the MR-1056 mapping in last week's MDM refresh. New value: Ascorbic Acid Grade B.
+
+Let me know if you have questions.
+
+Best regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Question about AS-AC-GR-B-395 mapping
+Date: Mon, 10 Apr 2023 12:00:00 +0000
+
+Hello,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks!
+John Smith
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about AS-AC-GR-B-395 mapping
+Date: Tue, 04 Apr 2023 12:00:00 +0000
+
+Hi all,
+
+According to the migration runbook, MR-1056 is definitely Ascorbic Acid Grade B Premium.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Question about AS-AC-GR-B-395 mapping
+Date: Tue, 04 Apr 2023 09:00:00 +0000
+
+Hi everyone,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Question about AS-AC-GR-B-395 mapping
+Date: Mon, 03 Apr 2023 21:00:00 +0000
+
+Hi all,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Question about AS-AC-GR-B-395 mapping
+Date: Mon, 03 Apr 2023 00:00:00 +0000
+
+Hi everyone,
+
+I have entity in staging with code MR-1056. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks,
+John Smith
+Data Governance
+

@@ -1,0 +1,113 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1049
+Date: Fri, 23 Jun 2023 15:00:00 +0000
+
+Good morning,
+
+Actually, small update on MG-1049 - the previous mapping was outdated. Current target is Pea Protein 99.5%.
+
+Let me know if you have questions.
+
+Thanks!
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1049
+Date: Sun, 07 May 2023 03:00:00 +0000
+
+Good morning,
+
+BTW, I'll be OOO next week.
+
+Best,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1049
+Date: Sat, 06 May 2023 06:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks!
+James Wilson
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1049
+Date: Tue, 02 May 2023 06:00:00 +0000
+
+Hi all,
+
+I can confirm that MG-1049 corresponds to PRD-Pea Protei. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1049
+Date: Tue, 02 May 2023 04:00:00 +0000
+
+Hi all,
+
+MG-1049 looks familiar. I remember discussing this in the last sync.
+
+Best,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MG-1049
+Date: Tue, 02 May 2023 03:00:00 +0000
+
+Good morning,
+
+The staging database shows MG-1049 but the target assignment column is blank.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code MG-1049
+Date: Tue, 02 May 2023 00:00:00 +0000
+
+Hi all,
+
+Checking on internal code MG-1049 - what's the target entity?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Maria Garcia
+Procurement
+

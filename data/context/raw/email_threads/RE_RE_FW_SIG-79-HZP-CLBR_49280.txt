@@ -1,0 +1,98 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Tue, 06 Jun 2023 03:00:00 +0000
+
+Hello,
+
+FYI - we updated the MG-1018 mapping in last week's MDM refresh. New value: Casein 25% Pharma Grade.
+
+Let me know if you have questions.
+
+Cheers,
+David Kim
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Sun, 09 Apr 2023 11:00:00 +0000
+
+Hi team,
+
+Off-topic: anyone want to grab coffee later?
+
+Thanks,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Mon, 03 Apr 2023 11:00:00 +0000
+
+Hi all,
+
+MG-1018 maps to Casein 25% Pharma Grade Premium. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Mon, 03 Apr 2023 06:00:00 +0000
+
+Hi everyone,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Thanks!
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA staging assignment
+Date: Mon, 03 Apr 2023 00:00:00 +0000
+
+Hi everyone,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: FW: RE: LEGACY_SIGMA staging assignment
+Date: Sun, 02 Apr 2023 00:00:00 +0000
+
+Hi everyone,
+
+Need to trace MG-1018 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+Michael Weber
+Business Operations
+

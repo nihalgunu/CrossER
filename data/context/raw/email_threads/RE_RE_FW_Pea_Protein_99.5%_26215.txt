@@ -1,0 +1,133 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Fri, 03 Nov 2023 17:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that Pea Protein 99.5% should be treated as equivalent to Pea Protein 99.5%.
+This mapping was verified during the BETA_HARMONIZATION_2024 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks in advance,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Thu, 02 Nov 2023 03:00:00 +0000
+
+Hi all,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Tue, 31 Oct 2023 16:00:00 +0000
+
+Quick question -
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Thanks!
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Tue, 31 Oct 2023 03:00:00 +0000
+
+Hi all,
+
+The ERP_BETA documentation mentions Pea Protein 99.5% but the naming convention changed after the system update last year.
+
+Thanks in advance,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Mon, 30 Oct 2023 21:00:00 +0000
+
+Hi team,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Sun, 29 Oct 2023 10:00:00 +0000
+
+Quick question -
+
+I think Pea Protein 99.5% might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_BETA team.
+
+Thanks,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with ERP_BETA entity mapping
+Date: Fri, 27 Oct 2023 22:00:00 +0000
+
+Hi everyone,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Need help with ERP_BETA entity mapping
+Date: Fri, 27 Oct 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for Pea Protein 99.5% from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Do we have a meeting scheduled to discuss this further?
+
+Regards,
+Maria Garcia
+Procurement
+

@@ -1,0 +1,43 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Sat, 16 Sep 2023 00:00:00 +0000
+
+Hello,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks!
+Anna Mueller
+EU Operations
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Sat, 16 Sep 2023 08:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Mon, 18 Sep 2023 00:00:00 +0000
+
+Hello,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks,
+Jennifer Lee
+Compliance
+

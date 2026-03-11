@@ -1,0 +1,43 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Thu, 10 Aug 2023 00:00:00 +0000
+
+Hi team,
+
+Off-topic: anyone want to grab coffee later?
+
+Best,
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Thu, 10 Aug 2023 07:00:00 +0000
+
+Hi all,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best,
+Sarah Chen
+IT Systems
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Thu, 10 Aug 2023 10:00:00 +0000
+
+Hi all,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Cheers,
+James Wilson
+Finance
+

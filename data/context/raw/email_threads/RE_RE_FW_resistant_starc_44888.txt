@@ -1,0 +1,98 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: resistant starc code clarification needed
+Date: Sun, 28 May 2023 16:00:00 +0000
+
+Hi all,
+
+Actually, small update on MG-1016 - the previous mapping was outdated. Current target is Resistant Starch.
+
+Let me know if you have questions.
+
+Best regards,
+David Kim
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: RE: resistant starc code clarification needed
+Date: Sun, 16 Apr 2023 19:00:00 +0000
+
+Good morning,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Regards,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: resistant starc code clarification needed
+Date: Mon, 10 Apr 2023 19:00:00 +0000
+
+Hi all,
+
+MG-1016 maps to Resistant Starch-LEGACY. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: resistant starc code clarification needed
+Date: Mon, 10 Apr 2023 09:00:00 +0000
+
+Hi team,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Cheers,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: resistant starc code clarification needed
+Date: Mon, 10 Apr 2023 05:00:00 +0000
+
+Hello,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Best,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: resistant starc code clarification needed
+Date: Mon, 10 Apr 2023 00:00:00 +0000
+
+Hi all,
+
+Does anyone know the target assignment for staging code MG-1016?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best regards,
+Lisa Rodriguez
+Quality Assurance
+

@@ -1,0 +1,98 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA staging assignment
+Date: Sat, 15 Apr 2023 09:00:00 +0000
+
+Hello,
+
+Actually, small update on XR-1022 - the previous mapping was outdated. Current target is Casein 25% Pharma Grade.
+
+Let me know if you have questions.
+
+Best regards,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA staging assignment
+Date: Mon, 06 Mar 2023 11:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Cheers,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA staging assignment
+Date: Sat, 04 Mar 2023 11:00:00 +0000
+
+Hi all,
+
+Just checked the mapping table: XR-1022 -> PRD-Casein 25%. That's the official record.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA staging assignment
+Date: Sat, 04 Mar 2023 07:00:00 +0000
+
+Hello,
+
+The staging database shows XR-1022 but the target assignment column is blank.
+
+Thanks!
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA staging assignment
+Date: Sat, 04 Mar 2023 06:00:00 +0000
+
+Hello,
+
+I think XR-1022 was assigned during the ERP_DELTA migration, but I'm not 100% sure of the target.
+
+Best,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_DELTA staging assignment
+Date: Sat, 04 Mar 2023 00:00:00 +0000
+
+Hi all,
+
+Does anyone know the target assignment for staging code XR-1022?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best regards,
+Robert Brown
+Master Data
+

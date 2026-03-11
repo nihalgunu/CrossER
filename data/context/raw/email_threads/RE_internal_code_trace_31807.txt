@@ -1,0 +1,45 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Internal code IC-1023 next hop
+Date: Tue, 25 Apr 2023 00:00:00 +0000
+
+Hi team,
+
+I'm tracing IC-1023 through the staging layers. What's the next code in the chain?
+
+Thanks,
+Anna Mueller
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Internal code IC-1023 next hop
+Date: Tue, 25 Apr 2023 07:00:00 +0000
+
+Hi,
+
+Let me check the consolidation log...
+
+According to the batch records, IC-1023 was consolidated into master group MG-1024.
+
+The final target assignment would be in the MDM registry under MG-1024.
+
+Best,
+Jennifer Lee
+Master Data
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Internal code IC-1023 next hop
+Date: Tue, 25 Apr 2023 08:00:00 +0000
+
+Good morning,
+
+Confirmed: IC-1023 -> MG-1024 in the consolidation layer.
+
+Thanks,
+James Wilson
+

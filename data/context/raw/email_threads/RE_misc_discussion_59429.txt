@@ -1,0 +1,43 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 20 Oct 2023 00:00:00 +0000
+
+Hey team,
+
+Off-topic: anyone want to grab coffee later?
+
+Cheers,
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 20 Oct 2023 15:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+Anna Mueller
+EU Operations
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Sat, 21 Oct 2023 12:00:00 +0000
+
+Hi everyone,
+
+BTW, I'll be OOO next week.
+
+Regards,
+Jennifer Lee
+Compliance
+

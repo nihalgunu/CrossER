@@ -1,0 +1,43 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Fri, 17 Nov 2023 00:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best regards,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Fri, 17 Nov 2023 09:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: System access request
+Date: Sat, 18 Nov 2023 00:00:00 +0000
+
+Good morning,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Cheers,
+David Kim
+Supply Chain
+

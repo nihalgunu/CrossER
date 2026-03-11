@@ -1,0 +1,113 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1058
+Date: Mon, 26 Jun 2023 13:00:00 +0000
+
+Hey team,
+
+Quick correction: XR-1058 was remapped to Ascorbic Acid Grade B per ticket MDM-2023-4521.
+
+Let me know if you have questions.
+
+Regards,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1058
+Date: Mon, 29 May 2023 01:00:00 +0000
+
+Hello,
+
+Off-topic: anyone want to grab coffee later?
+
+Best regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1058
+Date: Mon, 29 May 2023 00:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Regards,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1058
+Date: Sun, 28 May 2023 00:00:00 +0000
+
+Hi all,
+
+XR-1058 maps to Ascorbic Acid Grade B-LEGACY. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1058
+Date: Sat, 27 May 2023 23:00:00 +0000
+
+Hi team,
+
+The staging database shows XR-1058 but the target assignment column is blank.
+
+Thanks!
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1058
+Date: Sat, 27 May 2023 12:00:00 +0000
+
+Hi all,
+
+XR-1058 looks familiar. I remember discussing this in the last sync.
+
+Best,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code XR-1058
+Date: Sat, 27 May 2023 00:00:00 +0000
+
+Good morning,
+
+I have entity in staging with code XR-1058. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Robert Brown
+Master Data
+

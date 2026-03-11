@@ -1,0 +1,128 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Mon, 15 May 2023 11:00:00 +0000
+
+Hey team,
+
+FYI - we updated the TC-1030 mapping in last week's MDM refresh. New value: Isoglucose 70%.
+
+Let me know if you have questions.
+
+Best,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Fri, 21 Apr 2023 08:00:00 +0000
+
+Hi all,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Thu, 20 Apr 2023 22:00:00 +0000
+
+Hello,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best,
+John Smith
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Thu, 20 Apr 2023 18:00:00 +0000
+
+Good morning,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Sat, 15 Apr 2023 18:00:00 +0000
+
+Hi all,
+
+TC-1030 maps to Isoglucose 70%-OLD. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Sat, 15 Apr 2023 16:00:00 +0000
+
+Hey team,
+
+The staging database shows TC-1030 but the target assignment column is blank.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - isoglucose 70% discrepancy
+Date: Sat, 15 Apr 2023 15:00:00 +0000
+
+Hello,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - isoglucose 70% discrepancy
+Date: Sat, 15 Apr 2023 00:00:00 +0000
+
+Hey team,
+
+Checking on internal code TC-1030 - what's the target entity?
+
+I'm working on the data load and need to verify the target assignment.
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+

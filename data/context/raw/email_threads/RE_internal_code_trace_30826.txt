@@ -1,0 +1,45 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Internal code IC-1019 next hop
+Date: Wed, 20 Sep 2023 00:00:00 +0000
+
+Hi team,
+
+I'm tracing IC-1019 through the staging layers. What's the next code in the chain?
+
+Thanks,
+James Wilson
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Internal code IC-1019 next hop
+Date: Wed, 20 Sep 2023 03:00:00 +0000
+
+Hi,
+
+Let me check the consolidation log...
+
+According to the batch records, IC-1019 was consolidated into master group MR-1020.
+
+The final target assignment would be in the MDM registry under MR-1020.
+
+Best,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Internal code IC-1019 next hop
+Date: Wed, 20 Sep 2023 08:00:00 +0000
+
+Hi everyone,
+
+Confirmed: IC-1019 -> MR-1020 in the consolidation layer.
+
+Thanks!
+David Kim
+

@@ -1,0 +1,116 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about rapeseed oil mapping
+Date: Sun, 24 Sep 2023 02:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by our records: rapeseed oil in ERP_DELTA maps to Rapeseed Oil in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about rapeseed oil mapping
+Date: Sat, 23 Sep 2023 08:00:00 +0000
+
+Hello,
+
+Quick reminder: timesheets are due by EOD.
+
+Regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Question about rapeseed oil mapping
+Date: Fri, 22 Sep 2023 23:00:00 +0000
+
+Quick question -
+
+The ERP_DELTA documentation mentions rapeseed oil but the naming convention changed after the system update last year.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Question about rapeseed oil mapping
+Date: Thu, 21 Sep 2023 17:00:00 +0000
+
+Good morning,
+
+I think rapeseed oil might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_DELTA team.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Question about rapeseed oil mapping
+Date: Wed, 20 Sep 2023 18:00:00 +0000
+
+Hey team,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks!
+David Kim
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about rapeseed oil mapping
+Date: Tue, 19 Sep 2023 14:00:00 +0000
+
+Hello,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Question about rapeseed oil mapping
+Date: Tue, 19 Sep 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for rapeseed oil from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Best regards,
+Michael Weber
+Business Operations
+

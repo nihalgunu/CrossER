@@ -1,0 +1,69 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Question about SIG-51-LVQ-VS8Q mapping
+Date: Thu, 08 Jun 2023 03:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: SIG-51-LVQ-VS8Q should be treated as equivalent to Wheat Gluten 98% Premium.
+This mapping was verified during the SIGMA_DECOMMISSION_2023 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Cheers,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Question about SIG-51-LVQ-VS8Q mapping
+Date: Wed, 07 Jun 2023 00:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Best regards,
+John Smith
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Question about SIG-51-LVQ-VS8Q mapping
+Date: Tue, 06 Jun 2023 03:00:00 +0000
+
+Hey team,
+
+I think SIG-51-LVQ-VS8Q might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Thanks in advance,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Question about SIG-51-LVQ-VS8Q mapping
+Date: Tue, 06 Jun 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for SIG-51-LVQ-VS8Q from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+While I have you, do you know who handles the vendor payments for LEGACY_SIGMA?
+
+Thanks,
+James Wilson
+Finance
+

@@ -1,0 +1,43 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 10 Nov 2023 00:00:00 +0000
+
+Hey team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best regards,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Fri, 10 Nov 2023 08:00:00 +0000
+
+Hi all,
+
+Off-topic: anyone want to grab coffee later?
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Lunch plans for Friday?
+Date: Sat, 11 Nov 2023 00:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Thanks,
+Jennifer Lee
+Compliance
+

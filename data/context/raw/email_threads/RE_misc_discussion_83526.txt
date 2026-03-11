@@ -1,0 +1,43 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Wed, 13 Sep 2023 00:00:00 +0000
+
+Quick question -
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks!
+John Smith
+Data Governance
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Wed, 13 Sep 2023 19:00:00 +0000
+
+Hi everyone,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best regards,
+David Kim
+Supply Chain
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Wed, 13 Sep 2023 06:00:00 +0000
+
+Hi all,
+
+BTW, I'll be OOO next week.
+
+Best regards,
+Sarah Chen
+IT Systems
+

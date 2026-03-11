@@ -1,0 +1,2175 @@
+{
+  "channel": {
+    "id": "C005",
+    "name": "random",
+    "topic": "Water cooler chat",
+    "created": 1730005930
+  },
+  "messages": [
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "will do",
+      "ts": "1761542290.256195",
+      "timestamp": "2025-10-27T01:18:10.256195",
+      "reactions": [
+        {
+          "name": "100",
+          "count": 1,
+          "users": [
+            "U001"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761542830.256195",
+      "timestamp": "2025-10-27T01:27:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "can someone approve my expense report?",
+      "ts": "1761543910.256195",
+      "timestamp": "2025-10-27T01:45:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": ":thumbsup:",
+      "ts": "1761549430.256195",
+      "timestamp": "2025-10-27T03:17:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "great job on the presentation yesterday @bot.helper!",
+      "ts": "1761553150.256195",
+      "timestamp": "2025-10-27T04:19:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "got it, thanks!",
+      "ts": "1761553750.256195",
+      "timestamp": "2025-10-27T04:29:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761557110.256195",
+      "timestamp": "2025-10-27T05:25:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "great job on the presentation yesterday @sarah.chen!",
+      "ts": "1761563110.256195",
+      "timestamp": "2025-10-27T07:05:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "back online now",
+      "ts": "1761569890.256195",
+      "timestamp": "2025-10-27T08:58:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1761576610.256195",
+      "timestamp": "2025-10-27T10:50:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761579370.256195",
+      "timestamp": "2025-10-27T11:36:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761584110.256195",
+      "timestamp": "2025-10-27T12:55:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "thanks for the help earlier!",
+      "ts": "1761590350.256195",
+      "timestamp": "2025-10-27T14:39:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "brb",
+      "ts": "1761593170.256195",
+      "timestamp": "2025-10-27T15:26:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "got it, thanks!",
+      "ts": "1761599590.256195",
+      "timestamp": "2025-10-27T17:13:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 1,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "who's joining for lunch?",
+      "ts": "1761600970.256195",
+      "timestamp": "2025-10-27T17:36:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "will do",
+      "ts": "1761604090.256195",
+      "timestamp": "2025-10-27T18:28:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761604390.256195",
+      "timestamp": "2025-10-27T18:33:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": ":thumbsup:",
+      "ts": "1761605050.256195",
+      "timestamp": "2025-10-27T18:44:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": ":thumbsup:",
+      "ts": "1761606430.256195",
+      "timestamp": "2025-10-27T19:07:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "sounds good",
+      "ts": "1761613030.256195",
+      "timestamp": "2025-10-27T20:57:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "can someone approve my expense report?",
+      "ts": "1761614230.256195",
+      "timestamp": "2025-10-27T21:17:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761617170.256195",
+      "timestamp": "2025-10-27T22:06:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 4,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761619330.256195",
+      "timestamp": "2025-10-27T22:42:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 3,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "can someone approve my expense report?",
+      "ts": "1761623170.256195",
+      "timestamp": "2025-10-27T23:46:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "back online now",
+      "ts": "1761625030.256195",
+      "timestamp": "2025-10-28T00:17:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1761631930.256195",
+      "timestamp": "2025-10-28T02:12:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "sounds good",
+      "ts": "1761636610.256195",
+      "timestamp": "2025-10-28T03:30:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "can someone approve my expense report?",
+      "ts": "1761642070.256195",
+      "timestamp": "2025-10-28T05:01:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761646330.256195",
+      "timestamp": "2025-10-28T06:12:10.256195",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 5,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "can someone approve my expense report?",
+      "ts": "1761646510.256195",
+      "timestamp": "2025-10-28T06:15:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsup",
+          "count": 1,
+          "users": [
+            "U009"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761652210.256195",
+      "timestamp": "2025-10-28T07:50:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761658090.256195",
+      "timestamp": "2025-10-28T09:28:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "lol",
+      "ts": "1761663790.256195",
+      "timestamp": "2025-10-28T11:03:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761665470.256195",
+      "timestamp": "2025-10-28T11:31:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1761670930.256195",
+      "timestamp": "2025-10-28T13:02:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761672190.256195",
+      "timestamp": "2025-10-28T13:23:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 3,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "brb",
+      "ts": "1761674770.256195",
+      "timestamp": "2025-10-28T14:06:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "sounds good",
+      "ts": "1761679390.256195",
+      "timestamp": "2025-10-28T15:23:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "brb",
+      "ts": "1761683590.256195",
+      "timestamp": "2025-10-28T16:33:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "sounds good",
+      "ts": "1761690610.256195",
+      "timestamp": "2025-10-28T18:30:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "lol",
+      "ts": "1761693910.256195",
+      "timestamp": "2025-10-28T19:25:10.256195",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 1,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "great job on the presentation yesterday @sarah.chen!",
+      "ts": "1761697270.256195",
+      "timestamp": "2025-10-28T20:21:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "back online now",
+      "ts": "1761697630.256195",
+      "timestamp": "2025-10-28T20:27:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "back online now",
+      "ts": "1761698170.256195",
+      "timestamp": "2025-10-28T20:36:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761704830.256195",
+      "timestamp": "2025-10-28T22:27:10.256195",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 2,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "can someone approve my expense report?",
+      "ts": "1761707710.256195",
+      "timestamp": "2025-10-28T23:15:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "great job on the presentation yesterday @lisa.rodriguez!",
+      "ts": "1761713770.256195",
+      "timestamp": "2025-10-29T00:56:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761717010.256195",
+      "timestamp": "2025-10-29T01:50:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761718330.256195",
+      "timestamp": "2025-10-29T02:12:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761723610.256195",
+      "timestamp": "2025-10-29T03:40:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 2,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "nice",
+      "ts": "1761724330.256195",
+      "timestamp": "2025-10-29T03:52:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "who's joining for lunch?",
+      "ts": "1761725530.256195",
+      "timestamp": "2025-10-29T04:12:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 3,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761725590.256195",
+      "timestamp": "2025-10-29T04:13:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "will do",
+      "ts": "1761727090.256195",
+      "timestamp": "2025-10-29T04:38:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761730150.256195",
+      "timestamp": "2025-10-29T05:29:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "thanks for the help earlier!",
+      "ts": "1761730990.256195",
+      "timestamp": "2025-10-29T05:43:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 2,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761731650.256195",
+      "timestamp": "2025-10-29T05:54:10.256195",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "count": 3,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761734410.256195",
+      "timestamp": "2025-10-29T06:40:10.256195",
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 3,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761737410.256195",
+      "timestamp": "2025-10-29T07:30:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761740410.256195",
+      "timestamp": "2025-10-29T08:20:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "will do",
+      "ts": "1761743350.256195",
+      "timestamp": "2025-10-29T09:09:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "sounds good",
+      "ts": "1761746590.256195",
+      "timestamp": "2025-10-29T10:03:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761748810.256195",
+      "timestamp": "2025-10-29T10:40:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "great job on the presentation yesterday @james.wilson!",
+      "ts": "1761749110.256195",
+      "timestamp": "2025-10-29T10:45:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "who's joining for lunch?",
+      "ts": "1761755470.256195",
+      "timestamp": "2025-10-29T12:31:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "thanks for the help earlier!",
+      "ts": "1761755830.256195",
+      "timestamp": "2025-10-29T12:37:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761760450.256195",
+      "timestamp": "2025-10-29T13:54:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "lol",
+      "ts": "1761763270.256195",
+      "timestamp": "2025-10-29T14:41:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "brb",
+      "ts": "1761766390.256195",
+      "timestamp": "2025-10-29T15:33:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "who's joining for lunch?",
+      "ts": "1761770590.256195",
+      "timestamp": "2025-10-29T16:43:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761772450.256195",
+      "timestamp": "2025-10-29T17:14:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761776470.256195",
+      "timestamp": "2025-10-29T18:21:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "back online now",
+      "ts": "1761783250.256195",
+      "timestamp": "2025-10-29T20:14:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "great job on the presentation yesterday @james.wilson!",
+      "ts": "1761784450.256195",
+      "timestamp": "2025-10-29T20:34:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "sounds good",
+      "ts": "1761788590.256195",
+      "timestamp": "2025-10-29T21:43:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761792550.256195",
+      "timestamp": "2025-10-29T22:49:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761799510.256195",
+      "timestamp": "2025-10-30T00:45:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "sounds good",
+      "ts": "1761805090.256195",
+      "timestamp": "2025-10-30T02:18:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": ":thumbsup:",
+      "ts": "1761812290.256195",
+      "timestamp": "2025-10-30T04:18:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "can someone approve my expense report?",
+      "ts": "1761814450.256195",
+      "timestamp": "2025-10-30T04:54:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "thanks for the help earlier!",
+      "ts": "1761815170.256195",
+      "timestamp": "2025-10-30T05:06:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "brb",
+      "ts": "1761818410.256195",
+      "timestamp": "2025-10-30T06:00:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "brb",
+      "ts": "1761822070.256195",
+      "timestamp": "2025-10-30T07:01:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "sounds good",
+      "ts": "1761823870.256195",
+      "timestamp": "2025-10-30T07:31:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761827110.256195",
+      "timestamp": "2025-10-30T08:25:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761830950.256195",
+      "timestamp": "2025-10-30T09:29:10.256195",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 2,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "who's joining for lunch?",
+      "ts": "1761832510.256195",
+      "timestamp": "2025-10-30T09:55:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "will do",
+      "ts": "1761833410.256195",
+      "timestamp": "2025-10-30T10:10:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1761835990.256195",
+      "timestamp": "2025-10-30T10:53:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761838150.256195",
+      "timestamp": "2025-10-30T11:29:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1761844390.256195",
+      "timestamp": "2025-10-30T13:13:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "great job on the presentation yesterday @michael.weber!",
+      "ts": "1761848350.256195",
+      "timestamp": "2025-10-30T14:19:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761852190.256195",
+      "timestamp": "2025-10-30T15:23:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "will do",
+      "ts": "1761858730.256195",
+      "timestamp": "2025-10-30T17:12:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "thanks for the help earlier!",
+      "ts": "1761858970.256195",
+      "timestamp": "2025-10-30T17:16:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "sounds good",
+      "ts": "1761865210.256195",
+      "timestamp": "2025-10-30T19:00:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "sounds good",
+      "ts": "1761865510.256195",
+      "timestamp": "2025-10-30T19:05:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "sounds good",
+      "ts": "1761866110.256195",
+      "timestamp": "2025-10-30T19:15:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsup",
+          "count": 4,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "thanks for the help earlier!",
+      "ts": "1761869470.256195",
+      "timestamp": "2025-10-30T20:11:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "will do",
+      "ts": "1761875650.256195",
+      "timestamp": "2025-10-30T21:54:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "can someone approve my expense report?",
+      "ts": "1761878470.256195",
+      "timestamp": "2025-10-30T22:41:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1761885610.256195",
+      "timestamp": "2025-10-31T00:40:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "sounds good",
+      "ts": "1761892510.256195",
+      "timestamp": "2025-10-31T02:35:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "got it, thanks!",
+      "ts": "1761894250.256195",
+      "timestamp": "2025-10-31T03:04:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "back online now",
+      "ts": "1761899950.256195",
+      "timestamp": "2025-10-31T04:39:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761902830.256195",
+      "timestamp": "2025-10-31T05:27:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "will do",
+      "ts": "1761909850.256195",
+      "timestamp": "2025-10-31T07:24:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761911710.256195",
+      "timestamp": "2025-10-31T07:55:10.256195",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "lol",
+      "ts": "1761912010.256195",
+      "timestamp": "2025-10-31T08:00:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "will do",
+      "ts": "1761918910.256195",
+      "timestamp": "2025-10-31T09:55:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761923830.256195",
+      "timestamp": "2025-10-31T11:17:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": ":thumbsup:",
+      "ts": "1761926290.256195",
+      "timestamp": "2025-10-31T11:58:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1761928090.256195",
+      "timestamp": "2025-10-31T12:28:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761928270.256195",
+      "timestamp": "2025-10-31T12:31:10.256195",
+      "reactions": [
+        {
+          "name": "100",
+          "count": 4,
+          "users": [
+            "U008"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761929770.256195",
+      "timestamp": "2025-10-31T12:56:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761936490.256195",
+      "timestamp": "2025-10-31T14:48:10.256195",
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 4,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1761942910.256195",
+      "timestamp": "2025-10-31T16:35:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "great job on the presentation yesterday @maria.garcia!",
+      "ts": "1761943270.256195",
+      "timestamp": "2025-10-31T16:41:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "will do",
+      "ts": "1761944650.256195",
+      "timestamp": "2025-10-31T17:04:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1761947230.256195",
+      "timestamp": "2025-10-31T17:47:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "lol",
+      "ts": "1761950110.256195",
+      "timestamp": "2025-10-31T18:35:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": ":thumbsup:",
+      "ts": "1761955570.256195",
+      "timestamp": "2025-10-31T20:06:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1761957550.256195",
+      "timestamp": "2025-10-31T20:39:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "great job on the presentation yesterday @sarah.chen!",
+      "ts": "1761960790.256195",
+      "timestamp": "2025-10-31T21:33:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "will do",
+      "ts": "1761967870.256195",
+      "timestamp": "2025-10-31T23:31:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 3,
+          "users": [
+            "U009"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761968950.256195",
+      "timestamp": "2025-10-31T23:49:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": ":thumbsup:",
+      "ts": "1761970570.256195",
+      "timestamp": "2025-11-01T00:16:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1761973330.256195",
+      "timestamp": "2025-11-01T01:02:10.256195",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "count": 1,
+          "users": [
+            "U008"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761973630.256195",
+      "timestamp": "2025-11-01T01:07:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761977590.256195",
+      "timestamp": "2025-11-01T02:13:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1761981970.256195",
+      "timestamp": "2025-11-01T03:26:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761983650.256195",
+      "timestamp": "2025-11-01T03:54:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1761990790.256195",
+      "timestamp": "2025-11-01T05:53:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 3,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1761994630.256195",
+      "timestamp": "2025-11-01T06:57:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1761996550.256195",
+      "timestamp": "2025-11-01T07:29:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "back online now",
+      "ts": "1762001710.256195",
+      "timestamp": "2025-11-01T08:55:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1762004230.256195",
+      "timestamp": "2025-11-01T09:37:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "can someone approve my expense report?",
+      "ts": "1762008130.256195",
+      "timestamp": "2025-11-01T10:42:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1762012750.256195",
+      "timestamp": "2025-11-01T11:59:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762014250.256195",
+      "timestamp": "2025-11-01T12:24:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "back online now",
+      "ts": "1762016950.256195",
+      "timestamp": "2025-11-01T13:09:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1762021210.256195",
+      "timestamp": "2025-11-01T14:20:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "brb",
+      "ts": "1762023190.256195",
+      "timestamp": "2025-11-01T14:53:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "got it, thanks!",
+      "ts": "1762024510.256195",
+      "timestamp": "2025-11-01T15:15:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "who's joining for lunch?",
+      "ts": "1762026370.256195",
+      "timestamp": "2025-11-01T15:46:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1762027810.256195",
+      "timestamp": "2025-11-01T16:10:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "got it, thanks!",
+      "ts": "1762028890.256195",
+      "timestamp": "2025-11-01T16:28:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "will do",
+      "ts": "1762030390.256195",
+      "timestamp": "2025-11-01T16:53:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762035250.256195",
+      "timestamp": "2025-11-01T18:14:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1762037950.256195",
+      "timestamp": "2025-11-01T18:59:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1762038730.256195",
+      "timestamp": "2025-11-01T19:12:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 1,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "nice",
+      "ts": "1762040410.256195",
+      "timestamp": "2025-11-01T19:40:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "sounds good",
+      "ts": "1762045630.256195",
+      "timestamp": "2025-11-01T21:07:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1762047190.256195",
+      "timestamp": "2025-11-01T21:33:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "brb",
+      "ts": "1762049770.256195",
+      "timestamp": "2025-11-01T22:16:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1762051690.256195",
+      "timestamp": "2025-11-01T22:48:10.256195",
+      "reactions": [
+        {
+          "name": "+1",
+          "count": 4,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": ":thumbsup:",
+      "ts": "1762056550.256195",
+      "timestamp": "2025-11-02T00:09:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "got it, thanks!",
+      "ts": "1762058770.256195",
+      "timestamp": "2025-11-02T00:46:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": ":thumbsup:",
+      "ts": "1762068670.256195",
+      "timestamp": "2025-11-02T02:31:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762071250.256195",
+      "timestamp": "2025-11-02T03:14:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1762078150.256195",
+      "timestamp": "2025-11-02T05:09:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 5,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762081090.256195",
+      "timestamp": "2025-11-02T05:58:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1762082170.256195",
+      "timestamp": "2025-11-02T06:16:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "thanks for the help earlier!",
+      "ts": "1762086790.256195",
+      "timestamp": "2025-11-02T07:33:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1762087570.256195",
+      "timestamp": "2025-11-02T07:46:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 1,
+          "users": [
+            "U008"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "nice",
+      "ts": "1762090090.256195",
+      "timestamp": "2025-11-02T08:28:10.256195",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 3,
+          "users": [
+            "U001"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "got it, thanks!",
+      "ts": "1762095190.256195",
+      "timestamp": "2025-11-02T09:53:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 5,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": ":thumbsup:",
+      "ts": "1762099090.256195",
+      "timestamp": "2025-11-02T10:58:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "great job on the presentation yesterday @david.kim!",
+      "ts": "1762104190.256195",
+      "timestamp": "2025-11-02T12:23:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": ":thumbsup:",
+      "ts": "1762104370.256195",
+      "timestamp": "2025-11-02T12:26:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "nice",
+      "ts": "1762109290.256195",
+      "timestamp": "2025-11-02T13:48:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "back online now",
+      "ts": "1762112470.256195",
+      "timestamp": "2025-11-02T14:41:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "back online now",
+      "ts": "1762115710.256195",
+      "timestamp": "2025-11-02T15:35:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762118050.256195",
+      "timestamp": "2025-11-02T16:14:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "brb",
+      "ts": "1762118470.256195",
+      "timestamp": "2025-11-02T16:21:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "sounds good",
+      "ts": "1762121110.256195",
+      "timestamp": "2025-11-02T17:05:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "great job on the presentation yesterday @sarah.chen!",
+      "ts": "1762126930.256195",
+      "timestamp": "2025-11-02T18:42:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 2,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1762132570.256195",
+      "timestamp": "2025-11-02T20:16:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762135750.256195",
+      "timestamp": "2025-11-02T21:09:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 1,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "will do",
+      "ts": "1762138450.256195",
+      "timestamp": "2025-11-02T21:54:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "back online now",
+      "ts": "1762141810.256195",
+      "timestamp": "2025-11-02T22:50:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "the printer on floor 3 is broken again",
+      "ts": "1762145050.256195",
+      "timestamp": "2025-11-02T23:44:10.256195",
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 5,
+          "users": [
+            "U009"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "who's joining for lunch?",
+      "ts": "1762146490.256195",
+      "timestamp": "2025-11-03T00:08:10.256195",
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "lol",
+      "ts": "1762147330.256195",
+      "timestamp": "2025-11-03T00:22:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1762153330.256195",
+      "timestamp": "2025-11-03T02:02:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1762156870.256195",
+      "timestamp": "2025-11-03T03:01:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "can someone approve my expense report?",
+      "ts": "1762163890.256195",
+      "timestamp": "2025-11-03T04:58:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1762169890.256195",
+      "timestamp": "2025-11-03T06:38:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "back online now",
+      "ts": "1762176610.256195",
+      "timestamp": "2025-11-03T08:30:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "back online now",
+      "ts": "1762181410.256195",
+      "timestamp": "2025-11-03T09:50:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "anyone know where the coffee machine went?",
+      "ts": "1762188610.256195",
+      "timestamp": "2025-11-03T11:50:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "got it, thanks!",
+      "ts": "1762189870.256195",
+      "timestamp": "2025-11-03T12:11:10.256195",
+      "reactions": [
+        {
+          "name": "100",
+          "count": 5,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "thanks for the help earlier!",
+      "ts": "1762190950.256195",
+      "timestamp": "2025-11-03T12:29:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 4,
+          "users": [
+            "U008"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U006",
+      "username": "anna.mueller",
+      "text": "who's joining for lunch?",
+      "ts": "1762193830.256195",
+      "timestamp": "2025-11-03T13:17:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "back online now",
+      "ts": "1762196770.256195",
+      "timestamp": "2025-11-03T14:06:10.256195",
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 5,
+          "users": [
+            "U007"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "great job on the presentation yesterday @michael.weber!",
+      "ts": "1762200610.256195",
+      "timestamp": "2025-11-03T15:10:10.256195",
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 1,
+          "users": [
+            "U003"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "can someone approve my expense report?",
+      "ts": "1762204510.256195",
+      "timestamp": "2025-11-03T16:15:10.256195",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 3,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "can someone approve my expense report?",
+      "ts": "1762210090.256195",
+      "timestamp": "2025-11-03T17:48:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762212310.256195",
+      "timestamp": "2025-11-03T18:25:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "happy friday everyone! :tada:",
+      "ts": "1762218130.256195",
+      "timestamp": "2025-11-03T20:02:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1762223950.256195",
+      "timestamp": "2025-11-03T21:39:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "don't forget to submit your timesheets",
+      "ts": "1762224010.256195",
+      "timestamp": "2025-11-03T21:40:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "sounds good",
+      "ts": "1762224250.256195",
+      "timestamp": "2025-11-03T21:44:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "who's joining for lunch?",
+      "ts": "1762227850.256195",
+      "timestamp": "2025-11-03T22:44:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "will do",
+      "ts": "1762231690.256195",
+      "timestamp": "2025-11-03T23:48:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762232950.256195",
+      "timestamp": "2025-11-04T00:09:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1762235530.256195",
+      "timestamp": "2025-11-04T00:52:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsdown",
+          "count": 2,
+          "users": [
+            "U004"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "reminder: team standup in 15 mins",
+      "ts": "1762237510.256195",
+      "timestamp": "2025-11-04T01:25:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "has anyone seen my laptop charger?",
+      "ts": "1762242910.256195",
+      "timestamp": "2025-11-04T02:55:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "thanks for the help earlier!",
+      "ts": "1762249270.256195",
+      "timestamp": "2025-11-04T04:41:10.256195",
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "count": 2,
+          "users": [
+            "U002"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "thanks for the help earlier!",
+      "ts": "1762251850.256195",
+      "timestamp": "2025-11-04T05:24:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U009",
+      "username": "bot.helper",
+      "text": "thanks for the help earlier!",
+      "ts": "1762257070.256195",
+      "timestamp": "2025-11-04T06:51:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U002",
+      "username": "sarah.chen",
+      "text": "can someone approve my expense report?",
+      "ts": "1762262470.256195",
+      "timestamp": "2025-11-04T08:21:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": "is the VPN being slow for anyone else?",
+      "ts": "1762266730.256195",
+      "timestamp": "2025-11-04T09:32:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "can someone approve my expense report?",
+      "ts": "1762269730.256195",
+      "timestamp": "2025-11-04T10:22:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U008",
+      "username": "maria.garcia",
+      "text": ":thumbsup:",
+      "ts": "1762273570.256195",
+      "timestamp": "2025-11-04T11:26:10.256195",
+      "reactions": [
+        {
+          "name": "thumbsup",
+          "count": 3,
+          "users": [
+            "U006"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U005",
+      "username": "david.kim",
+      "text": "can someone approve my expense report?",
+      "ts": "1762278970.256195",
+      "timestamp": "2025-11-04T12:56:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U003",
+      "username": "michael.weber",
+      "text": "great job on the presentation yesterday @bot.helper!",
+      "ts": "1762281070.256195",
+      "timestamp": "2025-11-04T13:31:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U001",
+      "username": "john.smith",
+      "text": "will do",
+      "ts": "1762283710.256195",
+      "timestamp": "2025-11-04T14:15:10.256195"
+    },
+    {
+      "type": "message",
+      "user": "U004",
+      "username": "lisa.rodriguez",
+      "text": "great job on the presentation yesterday @maria.garcia!",
+      "ts": "1762288930.256195",
+      "timestamp": "2025-11-04T15:42:10.256195",
+      "reactions": [
+        {
+          "name": "heavy_check_mark",
+          "count": 2,
+          "users": [
+            "U005"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "user": "U007",
+      "username": "james.wilson",
+      "text": "working from home tomorrow, ping me if needed",
+      "ts": "1762295710.256195",
+      "timestamp": "2025-11-04T17:35:10.256195"
+    }
+  ],
+  "export_date": "2026-03-08T01:12:10.256731",
+  "message_count": 222
+}

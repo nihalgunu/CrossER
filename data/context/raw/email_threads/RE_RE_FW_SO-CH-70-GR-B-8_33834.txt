@@ -1,0 +1,98 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1003
+Date: Thu, 29 Jun 2023 18:00:00 +0000
+
+Hello,
+
+Note: disregard the earlier Sodium Chloride 70% Grade B-OLD mapping for MR-1003. Correct assignment is Sodium Chloride 70% Grade B.
+
+Let me know if you have questions.
+
+Cheers,
+David Kim
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1003
+Date: Mon, 08 May 2023 05:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1003
+Date: Thu, 04 May 2023 05:00:00 +0000
+
+Hi all,
+
+I can confirm that MR-1003 corresponds to Sodium Chloride 70% Grade B-OLD. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1003
+Date: Thu, 04 May 2023 03:00:00 +0000
+
+Hey team,
+
+The staging database shows MR-1003 but the target assignment column is blank.
+
+Thanks,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1003
+Date: Wed, 03 May 2023 20:00:00 +0000
+
+Hello,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Cheers,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code MR-1003
+Date: Wed, 03 May 2023 00:00:00 +0000
+
+Hi everyone,
+
+Does anyone know the target assignment for staging code MR-1003?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+Maria Garcia
+Procurement
+

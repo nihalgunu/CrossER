@@ -1,0 +1,131 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Tue, 01 Aug 2023 06:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the data steward: SIG-30-PVA-ZMF8 in LEGACY_SIGMA maps to Sodium Chloride 70% Grade B in ERP_ALPHA.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Mon, 31 Jul 2023 05:00:00 +0000
+
+Hello,
+
+I think SIG-30-PVA-ZMF8 might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Sun, 30 Jul 2023 15:00:00 +0000
+
+Hello,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Sun, 30 Jul 2023 04:00:00 +0000
+
+Hello,
+
+I think SIG-30-PVA-ZMF8 might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Thanks in advance,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Sat, 29 Jul 2023 13:00:00 +0000
+
+Good morning,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Sat, 29 Jul 2023 00:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Cheers,
+David Kim
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Fri, 28 Jul 2023 18:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks,
+John Smith
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - SIG-30-PVA-ZMF8 discrepancy
+Date: Fri, 28 Jul 2023 00:00:00 +0000
+
+Good morning,
+
+I'm trying to find the correct mapping for SIG-30-PVA-ZMF8 from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Regards,
+Sarah Chen
+IT Systems
+

@@ -1,0 +1,43 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Thu, 01 Jun 2023 00:00:00 +0000
+
+Quick question -
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best regards,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Thu, 01 Jun 2023 07:00:00 +0000
+
+Quick question -
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Best,
+Anna Mueller
+EU Operations
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Thu, 01 Jun 2023 12:00:00 +0000
+
+Hi team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Best regards,
+Sarah Chen
+IT Systems
+

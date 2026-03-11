@@ -1,0 +1,128 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 07 Apr 2023 08:00:00 +0000
+
+Hello,
+
+Actually, small update on IC-1006 - the previous mapping was outdated. Current target is Fructose Grade A.
+
+Let me know if you have questions.
+
+Best regards,
+John Smith
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Sat, 18 Mar 2023 18:00:00 +0000
+
+Good morning,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Sat, 18 Mar 2023 09:00:00 +0000
+
+Hi team,
+
+BTW, I'll be OOO next week.
+
+Best regards,
+David Kim
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 17 Mar 2023 10:00:00 +0000
+
+Hi team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Best,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 10:00:00 +0000
+
+Hi all,
+
+Just checked the mapping table: IC-1006 -> PRD-Fructose G. That's the official record.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 07:00:00 +0000
+
+Hi all,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 05:00:00 +0000
+
+Hello,
+
+I think IC-1006 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Cheers,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 00:00:00 +0000
+
+Hi team,
+
+Does anyone know the target assignment for staging code IC-1006?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best regards,
+David Kim
+Supply Chain
+

@@ -1,0 +1,128 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Thu, 08 Jun 2023 09:00:00 +0000
+
+Good morning,
+
+Actually, small update on MR-1066 - the previous mapping was outdated. Current target is Ascorbic Acid Standard.
+
+Let me know if you have questions.
+
+Regards,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Thu, 13 Apr 2023 12:00:00 +0000
+
+Hi all,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Best,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Wed, 12 Apr 2023 15:00:00 +0000
+
+Hi team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Tue, 11 Apr 2023 21:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best regards,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Thu, 06 Apr 2023 21:00:00 +0000
+
+Hi all,
+
+MR-1066 maps to PRD-Ascorbic A. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Thu, 06 Apr 2023 10:00:00 +0000
+
+Hi everyone,
+
+I think MR-1066 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Thanks,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Thu, 06 Apr 2023 04:00:00 +0000
+
+Hello,
+
+Let me check with the MDM team. They should have the official mapping.
+
+Best,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - SIG-74-HUK-JA04 discrepancy
+Date: Thu, 06 Apr 2023 00:00:00 +0000
+
+Hey team,
+
+Need to trace MR-1066 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+

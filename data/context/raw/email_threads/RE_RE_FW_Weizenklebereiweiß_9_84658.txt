@@ -1,0 +1,86 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Wed, 21 Jun 2023 15:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: the legacy code Weizenklebereiweiß 98% Premiumqualität corresponds to Wheat Gluten 98% Premium in the new system.
+The ERP_BETA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Mon, 19 Jun 2023 15:00:00 +0000
+
+Hello,
+
+I think Weizenklebereiweiß 98% Premiumqualität might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_BETA team.
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Sun, 18 Jun 2023 14:00:00 +0000
+
+Hi team,
+
+I think Weizenklebereiweiß 98% Premiumqualität might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_BETA team.
+
+Thanks in advance,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Fri, 16 Jun 2023 16:00:00 +0000
+
+Hey team,
+
+I think Weizenklebereiweiß 98% Premiumqualität might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the ERP_BETA team.
+
+Regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_BETA to ERP_ALPHA mapping
+Date: Fri, 16 Jun 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for Weizenklebereiweiß 98% Premiumqualität from ERP_BETA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Robert from the integration team?
+
+Thanks in advance,
+Jennifer Lee
+Compliance
+

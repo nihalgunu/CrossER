@@ -1,0 +1,54 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - AS-AC-782 discrepancy
+Date: Fri, 23 Jun 2023 00:00:00 +0000
+
+Hi team,
+
+Following up on this. I double-checked and AS-AC-782 (ERP_GAMMA) = Ascorbic Acid (ERP_ALPHA).
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - AS-AC-782 discrepancy
+Date: Wed, 21 Jun 2023 22:00:00 +0000
+
+Hey team,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Cheers,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - AS-AC-782 discrepancy
+Date: Wed, 21 Jun 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for AS-AC-782 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in Sarah from the integration team?
+
+Regards,
+Lisa Rodriguez
+Quality Assurance
+

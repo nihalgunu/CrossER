@@ -1,0 +1,43 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sun, 03 Sep 2023 00:00:00 +0000
+
+Hey team,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+David Kim
+Supply Chain
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sun, 03 Sep 2023 19:00:00 +0000
+
+Hey team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Cheers,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sun, 03 Sep 2023 06:00:00 +0000
+
+Hey team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Best,
+Robert Brown
+Master Data
+

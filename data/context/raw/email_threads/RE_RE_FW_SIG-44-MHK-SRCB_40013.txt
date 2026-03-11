@@ -1,0 +1,113 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Thu, 27 Apr 2023 07:00:00 +0000
+
+Hello,
+
+Quick correction: MR-1060 was remapped to Lactic Acid per ticket MDM-2023-4521.
+
+Let me know if you have questions.
+
+Best,
+David Kim
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 15 Mar 2023 04:00:00 +0000
+
+Hi everyone,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Regards,
+David Kim
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Tue, 14 Mar 2023 19:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Thanks,
+David Kim
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 19:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is MR-1060 = Lactic Acid Premium. This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 13:00:00 +0000
+
+Hey team,
+
+I think MR-1060 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 08:00:00 +0000
+
+Hey team,
+
+I think MR-1060 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Thanks,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 10 Mar 2023 00:00:00 +0000
+
+Hi everyone,
+
+Need to trace MR-1060 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Cheers,
+Maria Garcia
+Procurement
+

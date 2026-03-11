@@ -1,0 +1,43 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Wed, 01 Nov 2023 00:00:00 +0000
+
+Hi all,
+
+BTW, I'll be OOO next week.
+
+Thanks,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Wed, 01 Nov 2023 10:00:00 +0000
+
+Good morning,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Cheers,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Thu, 02 Nov 2023 22:00:00 +0000
+
+Good morning,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+

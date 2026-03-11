@@ -1,0 +1,84 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Thu, 05 Oct 2023 20:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that SIG-16-QDM-JLQM in LEGACY_SIGMA maps to Sunflower Oil 98% Premium in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Wed, 04 Oct 2023 05:00:00 +0000
+
+Hello,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Mon, 02 Oct 2023 06:00:00 +0000
+
+Quick question -
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks!
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Mon, 02 Oct 2023 03:00:00 +0000
+
+Hi all,
+
+The LEGACY_SIGMA documentation mentions SIG-16-QDM-JLQM but the naming convention changed after the system update last year.
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: FW: RE: LEGACY_SIGMA to ERP_ALPHA mapping
+Date: Mon, 02 Oct 2023 00:00:00 +0000
+
+Quick question -
+
+I'm trying to find the correct mapping for SIG-16-QDM-JLQM from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in John from the integration team?
+
+Thanks in advance,
+David Kim
+Supply Chain
+

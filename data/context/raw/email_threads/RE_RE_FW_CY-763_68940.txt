@@ -1,0 +1,100 @@
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_GAMMA to ERP_ALPHA mapping
+Date: Sun, 01 Oct 2023 00:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that CY-763 (ERP_GAMMA) = Cyclodextrin (ERP_ALPHA).
+This mapping was verified during the GAMMA_INTEGRATION_2022 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_GAMMA to ERP_ALPHA mapping
+Date: Fri, 29 Sep 2023 11:00:00 +0000
+
+Hi all,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best regards,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_GAMMA to ERP_ALPHA mapping
+Date: Wed, 27 Sep 2023 15:00:00 +0000
+
+Good morning,
+
+BTW, I'll be OOO next week.
+
+Thanks in advance,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_GAMMA to ERP_ALPHA mapping
+Date: Wed, 27 Sep 2023 07:00:00 +0000
+
+Hey team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best regards,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_GAMMA to ERP_ALPHA mapping
+Date: Tue, 26 Sep 2023 14:00:00 +0000
+
+Hi team,
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Thanks!
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_GAMMA to ERP_ALPHA mapping
+Date: Tue, 26 Sep 2023 00:00:00 +0000
+
+Quick question -
+
+I'm trying to find the correct mapping for CY-763 from ERP_GAMMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Is this related to the issue we discussed last week?
+
+Regards,
+David Kim
+Supply Chain
+

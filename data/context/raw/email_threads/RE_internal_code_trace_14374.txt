@@ -1,0 +1,45 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Internal code BC-1004 next hop
+Date: Tue, 16 May 2023 00:00:00 +0000
+
+Hi team,
+
+I'm tracing BC-1004 through the staging layers. What's the next code in the chain?
+
+Thanks,
+Michael Weber
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Internal code BC-1004 next hop
+Date: Tue, 16 May 2023 04:00:00 +0000
+
+Hi,
+
+Let me check the consolidation log...
+
+According to the batch records, BC-1004 was consolidated into master group MR-1005.
+
+The final target assignment would be in the MDM registry under MR-1005.
+
+Best,
+Maria Garcia
+Master Data
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Internal code BC-1004 next hop
+Date: Tue, 16 May 2023 10:00:00 +0000
+
+Hello,
+
+Confirmed: BC-1004 -> MR-1005 in the consolidation layer.
+
+Best,
+David Kim
+

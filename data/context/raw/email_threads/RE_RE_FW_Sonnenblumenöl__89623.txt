@@ -1,0 +1,128 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Wed, 10 May 2023 04:00:00 +0000
+
+Hello,
+
+Actually, small update on MR-1040 - the previous mapping was outdated. Current target is Sunflower Oil 98% Premium.
+
+Let me know if you have questions.
+
+Best regards,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Mon, 27 Mar 2023 16:00:00 +0000
+
+Hey team,
+
+Off-topic: anyone want to grab coffee later?
+
+Best regards,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Mon, 27 Mar 2023 15:00:00 +0000
+
+Hi everyone,
+
+Quick reminder: timesheets are due by EOD.
+
+Cheers,
+David Kim
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Mon, 27 Mar 2023 12:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Regards,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Wed, 22 Mar 2023 12:00:00 +0000
+
+Hi all,
+
+According to the migration runbook, MR-1040 is definitely Sunflower Oil 98% Premium Grade A.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Wed, 22 Mar 2023 11:00:00 +0000
+
+Hey team,
+
+MR-1040 looks familiar. I remember discussing this in the last sync.
+
+Cheers,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code MR-1040
+Date: Wed, 22 Mar 2023 10:00:00 +0000
+
+Good morning,
+
+The staging database shows MR-1040 but the target assignment column is blank.
+
+Thanks,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code MR-1040
+Date: Wed, 22 Mar 2023 00:00:00 +0000
+
+Hi all,
+
+I have entity in staging with code MR-1040. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+

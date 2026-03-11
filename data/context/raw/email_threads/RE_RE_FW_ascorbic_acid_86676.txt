@@ -1,0 +1,53 @@
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA to ERP_ALPHA mapping
+Date: Thu, 24 Aug 2023 04:00:00 +0000
+
+Hi team,
+
+Following up on this. I double-checked and ascorbic acid (ERP_DELTA) = Ascorbic Acid (ERP_ALPHA).
+The confusion arose because there were two similar codes in ERP_DELTA. This is the correct one based on the product specifications.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: FW: RE: ERP_DELTA to ERP_ALPHA mapping
+Date: Tue, 22 Aug 2023 13:00:00 +0000
+
+Good morning,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+John Smith
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: FW: RE: ERP_DELTA to ERP_ALPHA mapping
+Date: Tue, 22 Aug 2023 00:00:00 +0000
+
+Good morning,
+
+I'm trying to find the correct mapping for ascorbic acid from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should we loop in James from the integration team?
+
+Thanks in advance,
+Anna Mueller
+EU Operations
+

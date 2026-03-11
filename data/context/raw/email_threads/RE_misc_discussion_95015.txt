@@ -1,0 +1,43 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 05 Oct 2023 00:00:00 +0000
+
+Hi team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Regards,
+Robert Brown
+Master Data
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Thu, 05 Oct 2023 10:00:00 +0000
+
+Hi all,
+
+Also, does anyone know if the cafeteria is open today?
+
+Cheers,
+Jennifer Lee
+Compliance
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Meeting reschedule
+Date: Fri, 06 Oct 2023 12:00:00 +0000
+
+Hi everyone,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Regards,
+Michael Weber
+Business Operations
+

@@ -1,0 +1,113 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Tue, 23 May 2023 14:00:00 +0000
+
+Hi all,
+
+Quick correction: MR-1035 was remapped to Sunflower Oil 98% Premium per ticket MDM-2023-4521.
+
+Let me know if you have questions.
+
+Thanks,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Tue, 02 May 2023 19:00:00 +0000
+
+Hi everyone,
+
+Also, does anyone know if the cafeteria is open today?
+
+Cheers,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Mon, 01 May 2023 23:00:00 +0000
+
+Good morning,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Sat, 29 Apr 2023 23:00:00 +0000
+
+Hi all,
+
+Just checked the mapping table: MR-1035 -> Sunflower Oil 98% Standard. That's the official record.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Sat, 29 Apr 2023 11:00:00 +0000
+
+Good morning,
+
+I think MR-1035 was assigned during the LEGACY_SIGMA migration, but I'm not 100% sure of the target.
+
+Thanks!
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Sat, 29 Apr 2023 07:00:00 +0000
+
+Hi all,
+
+MR-1035 looks familiar. I remember discussing this in the last sync.
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - SIG-16-QDM-JLQM discrepancy
+Date: Sat, 29 Apr 2023 00:00:00 +0000
+
+Hi team,
+
+Does anyone know the target assignment for staging code MR-1035?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Michael Weber
+Business Operations
+

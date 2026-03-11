@@ -1,0 +1,98 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code BC-1045
+Date: Mon, 22 May 2023 06:00:00 +0000
+
+Hello,
+
+Quick correction: BC-1045 was remapped to Cyclodextrin per ticket MDM-2023-4521.
+
+Let me know if you have questions.
+
+Cheers,
+David Kim
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code BC-1045
+Date: Sun, 30 Apr 2023 02:00:00 +0000
+
+Hi everyone,
+
+BTW, I'll be OOO next week.
+
+Regards,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code BC-1045
+Date: Thu, 27 Apr 2023 02:00:00 +0000
+
+Hi all,
+
+I can confirm that BC-1045 corresponds to Cyclodextrin-LEGACY. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code BC-1045
+Date: Wed, 26 Apr 2023 14:00:00 +0000
+
+Hi all,
+
+BC-1045 looks familiar. I remember discussing this in the last sync.
+
+Cheers,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code BC-1045
+Date: Wed, 26 Apr 2023 09:00:00 +0000
+
+Hi team,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks!
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code BC-1045
+Date: Wed, 26 Apr 2023 00:00:00 +0000
+
+Good morning,
+
+Checking on internal code BC-1045 - what's the target entity?
+
+I'm working on the data load and need to verify the target assignment.
+
+Thanks!
+Robert Brown
+Master Data
+

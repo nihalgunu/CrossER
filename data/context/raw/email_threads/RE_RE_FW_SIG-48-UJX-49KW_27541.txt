@@ -1,0 +1,113 @@
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Sun, 25 Jun 2023 10:00:00 +0000
+
+Good morning,
+
+Heads up, the PRD-Ascorbic A assignment was superseded. IC-1054 now points to Ascorbic Acid Grade B.
+
+Let me know if you have questions.
+
+Thanks,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Sat, 03 Jun 2023 19:00:00 +0000
+
+Hi all,
+
+Also, does anyone know if the cafeteria is open today?
+
+Best regards,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Sat, 03 Jun 2023 07:00:00 +0000
+
+Hi team,
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks!
+Maria Garcia
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Sat, 27 May 2023 07:00:00 +0000
+
+Hi all,
+
+IC-1054 maps to PRD-Ascorbic A. I verified this with the data steward last month.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Sat, 27 May 2023 02:00:00 +0000
+
+Hi team,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Best regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Fri, 26 May 2023 15:00:00 +0000
+
+Hey team,
+
+The staging database shows IC-1054 but the target assignment column is blank.
+
+Thanks!
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: SIG-48-UJX-49KW duplicate issue
+Date: Fri, 26 May 2023 00:00:00 +0000
+
+Good morning,
+
+I have entity in staging with code IC-1054. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Regards,
+Maria Garcia
+Procurement
+

@@ -1,0 +1,43 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: Data quality discussion
+Date: Sat, 15 Jul 2023 00:00:00 +0000
+
+Good morning,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks!
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Data quality discussion
+Date: Sat, 15 Jul 2023 18:00:00 +0000
+
+Hi team,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks,
+Maria Garcia
+Procurement
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: Data quality discussion
+Date: Sun, 16 Jul 2023 08:00:00 +0000
+
+Hello,
+
+Also, does anyone know if the cafeteria is open today?
+
+Regards,
+Robert Brown
+Master Data
+

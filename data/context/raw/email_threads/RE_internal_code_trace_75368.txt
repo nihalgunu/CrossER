@@ -1,0 +1,45 @@
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: Internal code TC-1008 next hop
+Date: Sat, 12 Aug 2023 00:00:00 +0000
+
+Hi team,
+
+I'm tracing TC-1008 through the staging layers. What's the next code in the chain?
+
+Thanks,
+David Kim
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Internal code TC-1008 next hop
+Date: Sat, 12 Aug 2023 12:00:00 +0000
+
+Hi,
+
+Let me check the consolidation log...
+
+According to the batch records, TC-1008 was consolidated into master group IC-1009.
+
+The final target assignment would be in the MDM registry under IC-1009.
+
+Best,
+John Smith
+Master Data
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Internal code TC-1008 next hop
+Date: Sat, 12 Aug 2023 15:00:00 +0000
+
+Hi all,
+
+Confirmed: TC-1008 -> IC-1009 in the consolidation layer.
+
+Thanks!
+Maria Garcia
+

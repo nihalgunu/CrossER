@@ -1,0 +1,101 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Sat, 12 Aug 2023 16:00:00 +0000
+
+Hi team,
+
+Following up on this. Just verified: the legacy code SIG-41-LTG-3D5I corresponds to Cyclodextrin in the new system.
+This mapping was verified during the SIGMA_DECOMMISSION_2023 project. You can find it in the official runbook if needed.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Cheers,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Fri, 11 Aug 2023 10:00:00 +0000
+
+Quick question -
+
+Also, does anyone know if the cafeteria is open today?
+
+Thanks in advance,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 09 Aug 2023 23:00:00 +0000
+
+Hi everyone,
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Wed, 09 Aug 2023 16:00:00 +0000
+
+Hi team,
+
+I think SIG-41-LTG-3D5I might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Best,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Need help with LEGACY_SIGMA entity mapping
+Date: Tue, 08 Aug 2023 14:00:00 +0000
+
+Good morning,
+
+I think SIG-41-LTG-3D5I might be one of the legacy codes from the 2022 migration, but I'm not 100% sure. Let me check with the LEGACY_SIGMA team.
+
+Thanks,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Need help with LEGACY_SIGMA entity mapping
+Date: Tue, 08 Aug 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for SIG-41-LTG-3D5I from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Thanks in advance,
+Sarah Chen
+IT Systems
+

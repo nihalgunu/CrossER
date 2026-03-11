@@ -1,0 +1,114 @@
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Sat, 10 Jun 2023 18:00:00 +0000
+
+Hi team,
+
+Following up on this. I double-checked and SIG-71-VGV-8K52 should be treated as equivalent to Ascorbic Acid Pharma Grade.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Fri, 09 Jun 2023 13:00:00 +0000
+
+Quick question -
+
+The LEGACY_SIGMA documentation mentions SIG-71-VGV-8K52 but the naming convention changed after the system update last year.
+
+Regards,
+Anna Mueller
+EU Operations
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Thu, 08 Jun 2023 12:00:00 +0000
+
+Quick question -
+
+I remember we had a similar issue with this code pattern before. Did we document the resolution somewhere?
+
+Best,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Wed, 07 Jun 2023 00:00:00 +0000
+
+Quick question -
+
+Off-topic: anyone want to grab coffee later?
+
+Cheers,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Tue, 06 Jun 2023 19:00:00 +0000
+
+Good morning,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Mon, 05 Jun 2023 20:00:00 +0000
+
+Hello,
+
+Off-topic: anyone want to grab coffee later?
+
+Regards,
+Anna Mueller
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - SIG-71-VGV-8K52 discrepancy
+Date: Mon, 05 Jun 2023 00:00:00 +0000
+
+Good morning,
+
+I'm trying to find the correct mapping for SIG-71-VGV-8K52 from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Also, is there a wiki page documenting the LEGACY_SIGMA data model?
+
+Thanks in advance,
+Maria Garcia
+Procurement
+

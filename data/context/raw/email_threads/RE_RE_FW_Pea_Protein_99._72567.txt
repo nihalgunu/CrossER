@@ -1,0 +1,128 @@
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Tue, 04 Jul 2023 15:00:00 +0000
+
+Hi team,
+
+FYI - we updated the MG-1051 mapping in last week's MDM refresh. New value: Pea Protein 99.5%.
+
+Let me know if you have questions.
+
+Thanks,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Sun, 28 May 2023 20:00:00 +0000
+
+Hi team,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Michael Weber
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Sun, 28 May 2023 15:00:00 +0000
+
+Hey team,
+
+Also wondering if we're still doing the team lunch on Friday?
+
+Cheers,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Sat, 27 May 2023 22:00:00 +0000
+
+Hi all,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks,
+Lisa Rodriguez
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Fri, 26 May 2023 22:00:00 +0000
+
+Hi all,
+
+I can confirm that MG-1051 corresponds to Pea Protein 99.5% Premium. This was verified during the Q2 migration.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Fri, 26 May 2023 16:00:00 +0000
+
+Good morning,
+
+MG-1051 looks familiar. I remember discussing this in the last sync.
+
+Thanks,
+James Wilson
+Finance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: RE: FW: Urgent - Pea Protein 99. discrepancy
+Date: Fri, 26 May 2023 07:00:00 +0000
+
+Hi everyone,
+
+I think MG-1051 was assigned during the ERP_BETA migration, but I'm not 100% sure of the target.
+
+Thanks,
+Lisa Rodriguez
+Quality Assurance
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: FW: Urgent - Pea Protein 99. discrepancy
+Date: Fri, 26 May 2023 00:00:00 +0000
+
+Hi everyone,
+
+Need to trace MG-1051 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Best regards,
+Sarah Chen
+IT Systems
+

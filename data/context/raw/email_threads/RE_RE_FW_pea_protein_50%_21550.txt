@@ -1,0 +1,70 @@
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Question about pea protein 50% mapping
+Date: Thu, 17 Aug 2023 11:00:00 +0000
+
+Hi team,
+
+Following up on this. Confirmed by the legacy system admin: pea protein 50% in ERP_DELTA maps to Pea Protein 50% in ERP_ALPHA.
+I double-checked against the historical transaction data and this matches.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: john.smith@company.com
+To: data-governance@company.com
+Subject: RE: Question about pea protein 50% mapping
+Date: Thu, 17 Aug 2023 03:00:00 +0000
+
+Hello,
+
+The ERP_DELTA documentation mentions pea protein 50% but the naming convention changed after the system update last year.
+
+Cheers,
+John Smith
+Data Governance
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: Question about pea protein 50% mapping
+Date: Wed, 16 Aug 2023 16:00:00 +0000
+
+Quick question -
+
+I'm looking at the migration spreadsheet now. There are a few entries that could match but the data quality isn't great.
+
+Best regards,
+Maria Garcia
+Procurement
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: Question about pea protein 50% mapping
+Date: Wed, 16 Aug 2023 00:00:00 +0000
+
+Hi team,
+
+I'm trying to find the correct mapping for pea protein 50% from ERP_DELTA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Should I create a JIRA ticket for tracking?
+
+Thanks in advance,
+Sarah Chen
+IT Systems
+

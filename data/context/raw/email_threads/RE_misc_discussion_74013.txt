@@ -1,0 +1,43 @@
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sun, 26 Nov 2023 00:00:00 +0000
+
+Hi everyone,
+
+Off-topic: anyone want to grab coffee later?
+
+Best,
+Lisa Rodriguez
+Quality Assurance
+
+------------------------------------------------------------
+
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Sun, 26 Nov 2023 07:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: Quick question about the report format
+Date: Mon, 27 Nov 2023 00:00:00 +0000
+
+Good morning,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks,
+Maria Garcia
+Procurement
+

@@ -1,0 +1,43 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Fri, 16 Jun 2023 00:00:00 +0000
+
+Hello,
+
+Unrelated: can someone remind me of the Teams meeting link for the standup?
+
+Thanks in advance,
+James Wilson
+Finance
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Fri, 16 Jun 2023 19:00:00 +0000
+
+Hi team,
+
+Side note: great job on the Q3 presentation yesterday!
+
+Thanks!
+Michael Weber
+Business Operations
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: FW: Q3 planning discussion
+Date: Fri, 16 Jun 2023 20:00:00 +0000
+
+Hi all,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+Jennifer Lee
+Compliance
+

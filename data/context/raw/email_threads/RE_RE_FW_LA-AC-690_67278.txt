@@ -1,0 +1,98 @@
+From: james.wilson@company.com
+To: data-governance@company.com
+Subject: RE: Question about LA-AC-690 mapping
+Date: Mon, 15 May 2023 17:00:00 +0000
+
+Hello,
+
+Quick correction: TC-1061 was remapped to Lactic Acid per ticket MDM-2023-4521.
+
+Let me know if you have questions.
+
+Regards,
+James Wilson
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about LA-AC-690 mapping
+Date: Sun, 16 Apr 2023 03:00:00 +0000
+
+Hey team,
+
+BTW, I'll be OOO next week.
+
+Cheers,
+Sarah Chen
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Question about LA-AC-690 mapping
+Date: Sat, 15 Apr 2023 03:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is TC-1061 = Lactic Acid Grade A. This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: Question about LA-AC-690 mapping
+Date: Fri, 14 Apr 2023 15:00:00 +0000
+
+Hi everyone,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Question about LA-AC-690 mapping
+Date: Fri, 14 Apr 2023 10:00:00 +0000
+
+Hey team,
+
+The staging database shows TC-1061 but the target assignment column is blank.
+
+Best regards,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: anna.mueller@company.com
+To: data-governance@company.com
+Subject: Question about LA-AC-690 mapping
+Date: Fri, 14 Apr 2023 00:00:00 +0000
+
+Hey team,
+
+Need to trace TC-1061 to its final target. Anyone have the mapping?
+
+I'm working on the data load and need to verify the target assignment.
+
+Cheers,
+Anna Mueller
+EU Operations
+

@@ -1,0 +1,70 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-29-CYR-T4UF duplicate issue
+Date: Thu, 05 Oct 2023 14:00:00 +0000
+
+Hi team,
+
+Following up on this. The data steward confirmed that SIG-29-CYR-T4UF (LEGACY_SIGMA) = Ascorbic Acid (ERP_ALPHA).
+The LEGACY_SIGMA team confirmed this is the authoritative mapping.
+
+Please update the master data accordingly. Let me know if you have any
+other questions.
+
+Best regards,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: david.kim@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-29-CYR-T4UF duplicate issue
+Date: Thu, 05 Oct 2023 08:00:00 +0000
+
+Hi everyone,
+
+This looks like it might be related to the regional naming variations. The EU team uses different conventions.
+
+Cheers,
+David Kim
+Supply Chain
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: RE: RE: SIG-29-CYR-T4UF duplicate issue
+Date: Wed, 04 Oct 2023 00:00:00 +0000
+
+Hi all,
+
+The LEGACY_SIGMA documentation mentions SIG-29-CYR-T4UF but the naming convention changed after the system update last year.
+
+Thanks,
+Robert Brown
+Master Data
+
+
+------------------------------------------------------------
+
+From: maria.garcia@company.com
+To: data-governance@company.com
+Subject: RE: RE: SIG-29-CYR-T4UF duplicate issue
+Date: Tue, 03 Oct 2023 00:00:00 +0000
+
+Hello,
+
+I'm trying to find the correct mapping for SIG-29-CYR-T4UF from LEGACY_SIGMA.
+
+Can someone help clarify? I've been looking through the migration docs but
+can't find a definitive answer.
+
+Also, is there a wiki page documenting the LEGACY_SIGMA data model?
+
+Cheers,
+Maria Garcia
+Procurement
+

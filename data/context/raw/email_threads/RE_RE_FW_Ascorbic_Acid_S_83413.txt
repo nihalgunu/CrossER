@@ -1,0 +1,113 @@
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1068
+Date: Wed, 14 Jun 2023 18:00:00 +0000
+
+Hi team,
+
+Actually, small update on XR-1068 - the previous mapping was outdated. Current target is Ascorbic Acid Standard.
+
+Let me know if you have questions.
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: robert.brown@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1068
+Date: Fri, 19 May 2023 10:00:00 +0000
+
+Hello,
+
+Quick reminder: timesheets are due by EOD.
+
+Best,
+Robert Brown
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1068
+Date: Fri, 19 May 2023 07:00:00 +0000
+
+Hello,
+
+PS - did we ever resolve that printer issue on floor 3?
+
+Thanks,
+Jennifer Lee
+
+
+------------------------------------------------------------
+
+From: michael.weber@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1068
+Date: Fri, 12 May 2023 07:00:00 +0000
+
+Hi all,
+
+The authoritative mapping is XR-1068 = Ascorbic Acid Standard-OLD. This is in the master data registry.
+
+I verified this against the migration documentation. You can use this for
+the data load.
+
+Best regards,
+Michael Weber
+Business Operations
+
+
+------------------------------------------------------------
+
+From: sarah.chen@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1068
+Date: Fri, 12 May 2023 03:00:00 +0000
+
+Hi team,
+
+XR-1068 looks familiar. I remember discussing this in the last sync.
+
+Best,
+Sarah Chen
+IT Systems
+
+
+------------------------------------------------------------
+
+From: jennifer.lee@company.com
+To: data-governance@company.com
+Subject: RE: Clarification on internal code XR-1068
+Date: Thu, 11 May 2023 22:00:00 +0000
+
+Good morning,
+
+This code format is from the Q3 batch. Should be in the consolidation spreadsheet.
+
+Thanks,
+Jennifer Lee
+Compliance
+
+
+------------------------------------------------------------
+
+From: lisa.rodriguez@company.com
+To: data-governance@company.com
+Subject: Clarification on internal code XR-1068
+Date: Thu, 11 May 2023 00:00:00 +0000
+
+Hi all,
+
+I have entity in staging with code XR-1068. Where does this get loaded?
+
+I'm working on the data load and need to verify the target assignment.
+
+Cheers,
+Lisa Rodriguez
+Quality Assurance
+
