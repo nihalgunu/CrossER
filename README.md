@@ -32,13 +32,12 @@ LLMs fail on this benchmark without institutional context. String matching gets 
 
 ## Baselines
 
-| Method | Context | F1 | Precision | Recall |
-|--------|---------|-----|-----------|--------|
-| Claude Sonnet 4 + Phyvant | Phyvant | 0.500 | 0.429 | 0.600 |
-| Attribute Matching | None | 0.145 | 0.080 | 0.783 |
-| Claude Sonnet 4 + BM25 RAG | Raw | 0.091 | 0.077 | 0.111 |
-| Claude Sonnet 4 (zero-shot) | None | 0.090 | 0.143 | 0.065 |
-| String Matching | None | 0.000 | 0.000 | 0.000 |
+| Method | F1 | Precision | Recall |
+|--------|-----|-----------|--------|
+| Attribute Matching | 0.145 | 0.080 | 0.783 |
+| Claude Sonnet 4 + BM25 RAG | 0.091 | 0.077 | 0.111 |
+| Claude Sonnet 4 (zero-shot) | 0.090 | 0.143 | 0.065 |
+| String Matching | 0.000 | 0.000 | 0.000 |
 
 ## Quick Start
 
